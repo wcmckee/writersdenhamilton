@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1444350944.6881528
+_modified_time = 1446533907.5642235
 _enable_loop = True
 _template_filename = 'themes/monospace/templates/post.tmpl'
 _template_uri = 'post.tmpl'
@@ -23,11 +23,11 @@ def _mako_generate_namespaces(context):
     ns = runtime.TemplateNamespace('pheader', context._clean_inheritance_tokens(), templateuri='post_header.tmpl', callables=None,  calling_uri=_template_uri)
     context.namespaces[(__name__, 'pheader')] = ns
 
-    ns = runtime.TemplateNamespace('helper', context._clean_inheritance_tokens(), templateuri='post_helper.tmpl', callables=None,  calling_uri=_template_uri)
-    context.namespaces[(__name__, 'helper')] = ns
-
     ns = runtime.TemplateNamespace('comments', context._clean_inheritance_tokens(), templateuri='comments_helper.tmpl', callables=None,  calling_uri=_template_uri)
     context.namespaces[(__name__, 'comments')] = ns
+
+    ns = runtime.TemplateNamespace('helper', context._clean_inheritance_tokens(), templateuri='post_helper.tmpl', callables=None,  calling_uri=_template_uri)
+    context.namespaces[(__name__, 'helper')] = ns
 
 def _mako_inherit(template, context):
     _mako_generate_namespaces(context)
@@ -36,17 +36,17 @@ def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
-        _link = context.get('_link', UNDEFINED)
-        date_format = context.get('date_format', UNDEFINED)
-        comments = _mako_get_namespace(context, 'comments')
         messages = context.get('messages', UNDEFINED)
+        pheader = _mako_get_namespace(context, 'pheader')
         post = context.get('post', UNDEFINED)
         helper = _mako_get_namespace(context, 'helper')
-        pheader = _mako_get_namespace(context, 'pheader')
-        def content():
-            return render_content(context._locals(__M_locals))
+        _link = context.get('_link', UNDEFINED)
+        comments = _mako_get_namespace(context, 'comments')
         def extra_head():
             return render_extra_head(context._locals(__M_locals))
+        def content():
+            return render_content(context._locals(__M_locals))
+        date_format = context.get('date_format', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n')
@@ -70,15 +70,15 @@ def render_body(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        _link = context.get('_link', UNDEFINED)
-        date_format = context.get('date_format', UNDEFINED)
-        comments = _mako_get_namespace(context, 'comments')
         messages = context.get('messages', UNDEFINED)
+        pheader = _mako_get_namespace(context, 'pheader')
         post = context.get('post', UNDEFINED)
         helper = _mako_get_namespace(context, 'helper')
-        pheader = _mako_get_namespace(context, 'pheader')
+        _link = context.get('_link', UNDEFINED)
+        comments = _mako_get_namespace(context, 'comments')
         def content():
             return render_content(context)
+        date_format = context.get('date_format', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n    <div class="post">\n    ')
         __M_writer(str(pheader.html_title()))
@@ -129,8 +129,8 @@ def render_content(context,**pageargs):
 def render_extra_head(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        helper = _mako_get_namespace(context, 'helper')
         post = context.get('post', UNDEFINED)
+        helper = _mako_get_namespace(context, 'helper')
         def extra_head():
             return render_extra_head(context)
         __M_writer = context.writer()
@@ -148,6 +148,6 @@ def render_extra_head(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"line_map": {"129": 6, "137": 6, "138": 7, "139": 7, "140": 8, "141": 9, "142": 9, "143": 9, "149": 143, "23": 3, "26": 2, "29": 4, "35": 0, "51": 2, "52": 3, "53": 4, "54": 5, "59": 11, "64": 42, "70": 12, "83": 12, "84": 14, "85": 14, "86": 17, "87": 17, "88": 17, "89": 17, "90": 17, "91": 17, "92": 18, "93": 19, "94": 19, "95": 19, "96": 19, "97": 19, "98": 21, "99": 23, "100": 24, "101": 24, "102": 24, "103": 25, "104": 26, "105": 26, "106": 26, "107": 26, "108": 26, "109": 28, "110": 31, "111": 32, "112": 32, "113": 35, "114": 35, "115": 36, "116": 36, "117": 37, "118": 38, "119": 38, "120": 38, "121": 40, "122": 40, "123": 40}, "uri": "post.tmpl", "source_encoding": "utf-8", "filename": "themes/monospace/templates/post.tmpl"}
+{"line_map": {"129": 6, "137": 6, "138": 7, "139": 7, "140": 8, "141": 9, "142": 9, "143": 9, "149": 143, "23": 3, "26": 4, "29": 2, "35": 0, "51": 2, "52": 3, "53": 4, "54": 5, "59": 11, "64": 42, "70": 12, "83": 12, "84": 14, "85": 14, "86": 17, "87": 17, "88": 17, "89": 17, "90": 17, "91": 17, "92": 18, "93": 19, "94": 19, "95": 19, "96": 19, "97": 19, "98": 21, "99": 23, "100": 24, "101": 24, "102": 24, "103": 25, "104": 26, "105": 26, "106": 26, "107": 26, "108": 26, "109": 28, "110": 31, "111": 32, "112": 32, "113": 35, "114": 35, "115": 36, "116": 36, "117": 37, "118": 38, "119": 38, "120": 38, "121": 40, "122": 40, "123": 40}, "filename": "themes/monospace/templates/post.tmpl", "source_encoding": "utf-8", "uri": "post.tmpl"}
 __M_END_METADATA
 """
