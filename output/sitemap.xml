@@ -6,12 +6,16 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+  <loc>http://writersdenhamilton.org.nz/2014/index.html</loc>
+  <lastmod>2015-11-03T11:31:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://writersdenhamilton.org.nz/2015/index.html</loc>
-  <lastmod>2015-11-03T06:58:00Z</lastmod>
+  <lastmod>2015-11-05T02:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/archive.html</loc>
-  <lastmod>2015-11-03T02:33:00Z</lastmod>
+  <lastmod>2015-11-04T16:03:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/authors/index.html</loc>
@@ -23,7 +27,7 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/authors/writersdenhamilton.html</loc>
-  <lastmod>2015-11-03T06:58:00Z</lastmod>
+  <lastmod>2015-11-05T02:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/artist.html</loc>
@@ -55,11 +59,11 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/nanowrimo.html</loc>
-  <lastmod>2015-11-03T06:58:00Z</lastmod>
+  <lastmod>2015-11-05T02:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/novel.html</loc>
-  <lastmod>2015-11-03T06:58:00Z</lastmod>
+  <lastmod>2015-11-05T02:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/november.html</loc>
@@ -67,7 +71,7 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/science-fiction.html</loc>
-  <lastmod>2015-11-03T06:58:00Z</lastmod>
+  <lastmod>2015-11-05T02:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/write.html</loc>
@@ -79,7 +83,7 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/index.html</loc>
-  <lastmod>2015-11-03T06:58:00Z</lastmod>
+  <lastmod>2015-11-05T02:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/listings/index.html</loc>
@@ -87,7 +91,7 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/creativecommons.html</loc>
-  <lastmod>2015-11-01T10:41:00Z</lastmod>
+  <lastmod>2015-11-03T11:31:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/day1.html</loc>
@@ -99,7 +103,15 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/nanowrimo15-day3.html</loc>
-  <lastmod>2015-11-03T06:58:00Z</lastmod>
+  <lastmod>2015-11-03T12:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://writersdenhamilton.org.nz/posts/nanowrimo15-day4.html</loc>
+  <lastmod>2015-11-05T01:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://writersdenhamilton.org.nz/posts/nanowrimo15-day5.html</loc>
+  <lastmod>2015-11-05T02:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/prenano.html</loc>
@@ -108,6 +120,10 @@
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/sherlock.html</loc>
   <lastmod>2015-11-01T10:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://writersdenhamilton.org.nz/posts/spikeinfosec.html</loc>
+  <lastmod>2015-11-03T11:31:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/superpower.html</loc>
