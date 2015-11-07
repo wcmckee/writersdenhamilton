@@ -99,8 +99,6 @@ ArtControl had started painting people on RedditGetsDrawn long before ItWillBeMi
 
 Why did ItWillBeMine take over the subreddit? What could be done instead. Allow all artists. There is no such thing as troll artwork. 
 
-
-
 ArtControl had been partically annoying for her. They had developed a script to create a new account for every piece of artwork they created 
 - submitted. They did alot of artwork - sometimes up to 30 pieces a day. That is up to 30 accounts her and other mods needed to find everyday
 and ban. The script caused the artwork to be sent via message to the original poster, along a with mod mail. The art was uploaded to several 

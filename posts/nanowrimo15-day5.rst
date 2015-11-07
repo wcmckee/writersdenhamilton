@@ -82,3 +82,6 @@ Raspberry Pi was being charged with oxygen out of the sky.
 
 The internet connection was everywhere. The speeds were 10gb a second download and 1gb upload. Their was an unlimited amount of usage. The Pi was
 being developed to include a wireless card. Older version of the Pi didn't have a wireless card. 
+
+Antony sipped his cup of herb tea. It was hot so he placed it on the counter to cool down. Sarah sat in the chair. 
+Blitz, Antonys Abyssinian cat entered the room. 
