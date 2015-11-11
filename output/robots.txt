@@ -1,2 +1,4 @@
-Sitemap: http://writersdenhamilton.org.nz/sitemapindex.xml
+Sitemap: http://wcmckee.com/writersdenhamilton/sitemapindex.xml
 
+User-Agent: *
+Host: wcmckee.com
