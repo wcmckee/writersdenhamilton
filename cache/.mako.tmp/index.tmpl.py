@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1447234783.545864
+_modified_time = 1447321255.7640874
 _enable_loop = True
 _template_filename = 'themes/monospace/templates/index.tmpl'
 _template_uri = 'index.tmpl'
@@ -33,15 +33,15 @@ def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
+        posts = context.get('posts', UNDEFINED)
+        helper = _mako_get_namespace(context, 'helper')
         _link = context.get('_link', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
         date_format = context.get('date_format', UNDEFINED)
         comments = _mako_get_namespace(context, 'comments')
-        posts = context.get('posts', UNDEFINED)
         def content():
             return render_content(context._locals(__M_locals))
         index_teasers = context.get('index_teasers', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
-        helper = _mako_get_namespace(context, 'helper')
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n')
@@ -59,15 +59,15 @@ def render_body(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
+        posts = context.get('posts', UNDEFINED)
+        helper = _mako_get_namespace(context, 'helper')
         _link = context.get('_link', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
         date_format = context.get('date_format', UNDEFINED)
         comments = _mako_get_namespace(context, 'comments')
-        posts = context.get('posts', UNDEFINED)
         def content():
             return render_content(context)
         index_teasers = context.get('index_teasers', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
-        helper = _mako_get_namespace(context, 'helper')
         __M_writer = context.writer()
         __M_writer('\n')
         for post in posts:
@@ -111,6 +111,6 @@ def render_content(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"source_encoding": "utf-8", "filename": "themes/monospace/templates/index.tmpl", "uri": "index.tmpl", "line_map": {"23": 3, "26": 2, "32": 0, "46": 2, "47": 3, "48": 4, "53": 31, "59": 5, "72": 5, "73": 6, "74": 7, "75": 8, "76": 8, "77": 8, "78": 8, "79": 11, "80": 11, "81": 11, "82": 11, "83": 11, "84": 11, "85": 15, "86": 16, "87": 17, "88": 17, "89": 17, "90": 17, "91": 17, "92": 20, "93": 22, "94": 22, "95": 23, "96": 24, "97": 24, "98": 24, "99": 26, "100": 28, "101": 28, "102": 28, "103": 29, "104": 29, "105": 30, "106": 30, "112": 106}}
+{"line_map": {"23": 3, "26": 2, "32": 0, "46": 2, "47": 3, "48": 4, "53": 31, "59": 5, "72": 5, "73": 6, "74": 7, "75": 8, "76": 8, "77": 8, "78": 8, "79": 11, "80": 11, "81": 11, "82": 11, "83": 11, "84": 11, "85": 15, "86": 16, "87": 17, "88": 17, "89": 17, "90": 17, "91": 17, "92": 20, "93": 22, "94": 22, "95": 23, "96": 24, "97": 24, "98": 24, "99": 26, "100": 28, "101": 28, "102": 28, "103": 29, "104": 29, "105": 30, "106": 30, "112": 106}, "source_encoding": "utf-8", "uri": "index.tmpl", "filename": "themes/monospace/templates/index.tmpl"}
 __M_END_METADATA
 """
