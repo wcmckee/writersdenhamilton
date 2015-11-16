@@ -89,7 +89,10 @@ When Loth'Rak openeds his eyes a giant blue planet. He let the breath out. There
 traveled towards the Earth, entering it atmosphone. Loth'Rak looked out the side window - the Earths Moon, in a full and complete. He held his forehead as the 
 visions happened again. The Earths Moon appeared to be blown up, seprated into parts. The visions of the two timelines combined. There was a transparency between
 the full complete moon and the shattered destoried Moon. Loth'Rak looked back at the Earth. It too had a transparency. Giant robotic cities compard to the Human 
-cities. Loth'Rak injected himself with the needle. This was the cure for the visions. His head felt calm. 
+cities. Loth'Rak injected himself with the needle. This was the cure for the visions. His head felt calm. His ship tore through the Earths atmophure. His landing 
+cords were Washington DC where the President is giving a speech. The story is told from two timeline periods. In both timelines ai machines are created. These are 
+sent to the Earths Moon. One of the ai is cracked by Antony - a half alien, half human creature stuck on Mars. 
+
 
 The attack happened just like before. The robotic president and Detective got into the vechile and the car comes under attack from hostiles. The President was 
 destoried in the attack. A robotic version of Detective is sent back to save a robotic version of Joey. The robotic version of Sarah holds her teddy bear and 
