@@ -18,7 +18,7 @@ in the past of the failed attempts. Everything became very muddled though. Detec
 Joey was sent back to his own time he was never the same. One side effect from the travel was visions of where they traveled from. 
 
 Albumin had located Joey on the scanner. He had successfully returned from the Mars mission. The GPS showed him walking out the building towards
-the building that he was at earlier. He could do no harm to himself or others but ItWillMine was concerned about the visions that he might be 
+the building that he was at earlier. He could do no harm to himself or others but ItWillBeMine was concerned about the visions that he might be 
 experiencing. As she drove Albumin reviewed the video footage of Joey waking up in this time. It showed him waking up, looking quite confused,
 and sitting up. When he sat up the single light bulb in the room turned on. The room that he was located in was known as the 'Travel Room'. It had
 been specially build for these missions to attempt to save mankind.
@@ -76,4 +76,23 @@ wiped out, it meant that his race was safe. But for other reasons he was upset A
 'Was letting Humans destroy his world the right thing to do', he thought to himself. He didn't know what the future would bring. Would the Robots
 find his planet in the future? Would they attack it like the Humans did. 
 Loth'Raks decided he needed to travel to Earth and meet with the Robots. He needed to know their plans. They had started exploring the Universe and it
-wouldn't be long till they discovered his planet. 
+wouldn't be long till they discovered his planet.
+Loth'Rak walked up the launching dock. The army had prepared his transport already. He was traveling alone. The black hole had appeared in his galexy that 
+his ship will travel through. The blackhole will take him to Earth where he will meet with the Human race. His race had been attempting to create a cure for
+the side effect of experiencing multiply timnelines. Ever since Loth'Rak started sending people back. His head from the visions. They had been getting stronger.
+On Loth'Raks home world he had been expericening regular visions of a world that had been bombed. There was no life there - only Loth'Rak. Launching in 10, 9,
+8... Loth'Rak was strapped in and ready to leave. The ship that was carrying him was set to travel straight through the blackhole. The alien technology had been
+developed so that the travel through a black hole only taking several hundrad Earth years. Loth'Raks ship approched the blackhole. This was the first time he had
+traveled through one and he had heard from other travelers that the best thing to do was close your eyes and hold your breath. He watched out the front window 
+as his ship hit the blackhole he closed his eyes and held his breath.
+When Loth'Rak openeds his eyes a giant blue planet. He let the breath out. There it was everything he had heard about in stories and books - Earth. The ship 
+traveled towards the Earth, entering it atmosphone. Loth'Rak looked out the side window - the Earths Moon, in a full and complete. He held his forehead as the 
+visions happened again. The Earths Moon appeared to be blown up, seprated into parts. The visions of the two timelines combined. There was a transparency between
+the full complete moon and the shattered destoried Moon. Loth'Rak looked back at the Earth. It too had a transparency. Giant robotic cities compard to the Human 
+cities. Loth'Rak injected himself with the needle. This was the cure for the visions. His head felt calm. 
+
+The attack happened just like before. The robotic president and Detective got into the vechile and the car comes under attack from hostiles. The President was 
+destoried in the attack. A robotic version of Detective is sent back to save a robotic version of Joey. The robotic version of Sarah holds her teddy bear and 
+watched the speech on television. 
+
+
