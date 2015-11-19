@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1447654776.293663
+_modified_time = 1447940187.2202132
 _enable_loop = True
 _template_filename = '/usr/local/lib/python3.4/dist-packages/nikola/data/themes/base/templates/authors.tmpl'
 _template_uri = 'authors.tmpl'
@@ -28,10 +28,10 @@ def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
-        hidden_authors = context.get('hidden_authors', UNDEFINED)
+        items = context.get('items', UNDEFINED)
         def content():
             return render_content(context._locals(__M_locals))
-        items = context.get('items', UNDEFINED)
+        hidden_authors = context.get('hidden_authors', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n\n')
@@ -48,10 +48,10 @@ def render_body(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        hidden_authors = context.get('hidden_authors', UNDEFINED)
+        items = context.get('items', UNDEFINED)
         def content():
             return render_content(context)
-        items = context.get('items', UNDEFINED)
+        hidden_authors = context.get('hidden_authors', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n<article class="authorindex">\n')

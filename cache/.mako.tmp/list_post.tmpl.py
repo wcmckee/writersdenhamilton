@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1447654776.470554
+_modified_time = 1447940186.861514
 _enable_loop = True
 _template_filename = '/usr/local/lib/python3.4/dist-packages/nikola/data/themes/base/templates/list_post.tmpl'
 _template_uri = 'list_post.tmpl'
@@ -28,10 +28,10 @@ def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
-        posts = context.get('posts', UNDEFINED)
-        title = context.get('title', UNDEFINED)
         def content():
             return render_content(context._locals(__M_locals))
+        title = context.get('title', UNDEFINED)
+        posts = context.get('posts', UNDEFINED)
         date_format = context.get('date_format', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
         __M_writer = context.writer()
@@ -49,10 +49,10 @@ def render_body(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        posts = context.get('posts', UNDEFINED)
-        title = context.get('title', UNDEFINED)
         def content():
             return render_content(context)
+        title = context.get('title', UNDEFINED)
+        posts = context.get('posts', UNDEFINED)
         date_format = context.get('date_format', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
         __M_writer = context.writer()
