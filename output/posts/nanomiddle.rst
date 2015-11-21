@@ -1,135 +1,220 @@
-﻿Please share this document by copying and pasting the URL, not via the “Share” button.
-
-
-
+﻿Please share this document by copying and 
+pasting the URL, not via the “Share” button.
 
 NaNoWriMo Young Writers Program
 Middle School (6-8) Curriculum
 
-
-
-
-* Introduction
-* Common Core Fulfillments
-* Considering Assessment
-* October Lessons
-★ = Our suggestions for the most essential NaNo lessons!
-Lesson Plan 1: Introducing NaNoWriMo    ★
-Lesson Plan 2: So What’s a Novel, Anyway?    ★
-Lesson Plan 3: Good Book, Bad Book    ★
-Lesson Plan 4: Creating Awesome Characters    ★
-Lesson Plan 5: Creating Conflict    ★
-Lesson Plan 6: Elements of Plot – Part One    ★
-Lesson Plan 7: Elements of Plot – Part Two    ★
-Lesson Plan 8: Setting and Mood
-Lesson Plan 9: Settings That Reinforce Characters
-Lesson Plan 10: Writing Really Good Dialogue
-* November Lessons
-Lesson Plan 11: Beginnings    ★
-How to Keep Your Kids Writing During November!    ★
-Lesson Plan 12: Details, Details, Details
-Lesson Plan 13: Sub-Plotting
-Lesson Plan 14: Character Interviews on NaNo-TV
-* December and Beyond
-Throwing a “Thank Goodness It's Over” Party    ★
-Lesson Plan 15: Taking the “Work” Out of Workshopping    ★
-Lesson Plan 16: Novel, Take 2
-Lesson Plan 17: Cleaning it Up    ★
-Lesson Plan 18: Getting It Published
-Making NaNoWriMo Classroom Anthologies
-Hosting a NaNo-Reading
-* Quick Links to Web Resources
-
-
-________________
-
-
 Introduction
-
-
-When teaching noveling to middle school students, it’s all about motivation. We're sure we're not telling you anything you don’t already know, but we want to help you think about this in terms of National Novel Writing Month.
-
-
-Your kids have most of the language skills they need to write fiction, which is great, but they’re entering that self-conscious, pre-teen phase—meaning their inner editors are starting to rear their ugly heads more and more each day. Plus, the idea of throwing themselves enthusiastically into a school project might seem pretty "uncool." So they will need all the pep talks and bribery you can possible give!
-
-
-Of course, there are those kids who will be jumping up and down with excitement at the first mention of National Novel Writing Month, but these will be the exception, not the rule. We hope you find a few in every class, but despite all your efforts, don’t expect every member of your class to embrace NaNoWriMo as more than a grade right off the bat.
-
-
-Most of all, though, expect amazing things. If you take a whole class of kids and soak them in creativity for a month, something is going to happen. It might not be exactly what you expected, but chances are good that it’s going to be awesome!
-
-
-So how do you make it all happen? Follow the steps in How Does NaNoWriMo Work for Educators?, check out all the resources we provide, and use the following lessons however you like. Remember that even though students do all their writing in November, you should begin working in October to be sure your kids are fully prepared.
-
-
-
 
 Common Core Fulfillments
 
+Considering Assessment
 
-The Young Writers Program believes that NaNoWriMo, in addition to being totally fun, can easily fit into a rigorous course of study. In 2009, we adapted all of our lessons to California’s state English Language Arts standards. The response to this development was great: more teachers were able to incorporate the program, and more administrators were able to see how effective it can be.
+October Lessons
+
+Lesson Plan 1: Introducing NaNoWriMo    ★
+
+Lesson Plan 2: So What’s a Novel, Anyway?    ★
+
+Lesson Plan 3: Good Book, Bad Book    ★
+
+Lesson Plan 4: Creating Awesome Characters    ★
+
+Lesson Plan 5: Creating Conflict    ★
+
+Lesson Plan 6: Elements of Plot – Part One    ★
+
+Lesson Plan 7: Elements of Plot – Part Two    ★
+
+Lesson Plan 8: Setting and Mood
+
+Lesson Plan 9: Settings That Reinforce Characters
+
+Lesson Plan 10: Writing Really Good Dialogue
+
+* November Lessons
+
+Lesson Plan 11: Beginnings
+
+How to Keep Your Kids Writing During 
+November!
+
+Lesson Plan 12: Details, Details, Details
+
+Lesson Plan 13: Sub-Plotting
+
+Lesson Plan 14: Character Interviews on 
+NaNo-TV 
+
+December and Beyond
+
+Throwing a “Thank Goodness It's Over” Party
+
+Lesson Plan 15: Taking the “Work” Out of 
+Workshopping
+
+Lesson Plan 16: Novel, Take 2
+
+Lesson Plan 17: Cleaning it Up
+
+Lesson Plan 18: Getting It Published
+
+Making NaNoWriMo Classroom Anthologies
+
+Hosting a NaNo-Reading
+
+Quick Links to Web Resources
+
+Introduction
+
+It’s all about motivation. 
+
+pep talks and bribery
+
+jumping up and down with excitement at the 
+first mention of National Novel Writing
+ 
+don’t expect everyone to 
+embrace NaNoWriMo as more than a grade right 
+off the bat.
 
 
-In 2010, the YWP again adapted its materials, this time to the new national Common Core Standards. Adopted by 42 states, the District of Columbia, and four territories, the Common Core provides clear, effective touchstones for English content learning. We like that it can be used and understood by our educators across the country.
+Expect amazing things. If you take a whole 
+class and soak them in creativity 
+for a month, something is going to happen. 
+It might not be exactly what you expected, 
+but it’s going to be awesome!
 
 
-At the top of each middle school lesson, you will find a list of the standards that the lesson fulfills. You can also download a detailed chart of the Common Core fulfillments for the entire curriculum.
+So how do you make it all happen? 
+
+Follow the steps in 
+
+How Does NaNoWriMo Work for Educators?
+
+check out all the resources we provide
+
+use the following lessons however you like. 
+
+Even though writing is done in
+in November, you should begin 
+working in October to be sure your kids are 
+fully prepared.
+
+Common Core Fulfillments
+
+The Young Writers Program believes that 
+NaNoWriMo, in addition to being totally fun, 
+can easily fit into a rigorous course of 
+study. In 2009, we adapted all of our 
+lessons to California’s state English 
+Language Arts standards. The response to 
+this development was great: more teachers 
+were able to incorporate the program, and 
+more administrators were able to see how 
+effective it can be.
 
 
+In 2010, the YWP again adapted its materials, 
+this time to the new national Common Core 
+Standards. Adopted by 42 states, the 
+District of Columbia, and four territories, 
+the Common Core provides clear, effective 
+touchstones for English content learning. 
+We like that it can be used and understood 
+by our educators across the country.
 
 
-
+At the top of each lesson, 
+you will find a list of the standards that 
+the lesson fulfills. You can also download 
+a detailed chart of the Common Core 
+fulfillments for the entire curriculum
 
 Considering Assessment
 
+The Young Writers Program knows that all 
+educators have existing assessment systems, 
+and it may be a challenge to figure out how 
+NaNoWriMo fits in. The good news is that, 
+throughout the years, teachers have devised 
+many different strategies for assessing 
+students’ work during November and beyond. 
+Here are a few suggestions:
 
-The Young Writers Program knows that all educators have existing assessment systems, and it may be a challenge to figure out how NaNoWriMo fits in. The good news is that, throughout the years, teachers have devised many different strategies for assessing students’ work during November and beyond. Here are a few suggestions:
-
-
-* Work with all students to create realistic word-count goals. (Use the Word-Count Goal Calculator if you’d like some help!) Your kids will be starting the program at many different levels, and you should individualize accordingly.
-
-
-* Decide—and make clear to your class—early on exactly how students will be accountable for their novels. You might require them to regularly submit excerpts or plot summaries, or keep their word count updated on the classroom progress poster.
-
-
-* Clarify exactly what you expect the final product to look like. One of the founding philosophies of NaNoWriMo is that quantity is more important than quality. That said, students should be expected to do some editing work to align their work with writing conventions and Common Core Standards. Consider whether you want them to revise an excerpt, their whole novel, or something in between.
-
-
-* We don’t necessarily advise trying to read all of your students’ novels. If you regularly collect excerpts and summaries, you should have a good sense of what kids are working on.
-
-
-* Base grading on effort as well as product. This project will be challenging for many students, and you should reward their hard work even if they don’t ultimately reach their word-count goals.
+* Work with students to create realistic 
+word-count goals. People will be starting 
+the program at many different levels, 
+and you should individualize accordingly.
 
 
-We have created a suggested rubric that you can use to assess students’ work. It is based on the content of our curriculum and young novelist workbooks, and contains categories for characters, plot, setting, dialogue, voice, and conventions. You should feel free to modify it to fit your classroom’s needs. (Students might also use it for self-assessment of their novels.)
+* Decide—and make clear to your class—early 
+on exactly how students will be accountable 
+for their novels. You might require them to 
+regularly submit excerpts or plot summaries, 
+or keep their word count updated on the 
+classroom progress poster.
 
 
-________________
+* Clarify exactly what you expect the final 
+product to look like. One of the founding 
+philosophies of NaNoWriMo is that quantity 
+is more important than quality. That said, 
+students should be expected to do some 
+editing work to align their work with 
+writing conventions and Common Core 
+Standards. Consider whether you want them 
+to revise an excerpt, their whole novel, 
+or something in between.
 
 
-Lesson Plan 1: Introducing NaNoWriMo and Getting Rid of Inner Editors
+* We don’t necessarily advise trying to 
+read all of your students’ novels. If you 
+regularly collect excerpts and summaries, 
+you should have a good sense of what kids 
+are working on.
 
 
-Supports Common Core Standards for English Language Arts:
-* Grade 6: Writing: 10. Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of tasks, purposes, and audiences.
-* Grade 7: Writing: 10. Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of tasks, purposes, and audiences.
-* Grade 8: Writing: 10. Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of tasks, purposes, and audiences.
+* Base grading on effort as well as product. 
+This project will be challenging for many 
+students, and you should reward their hard 
+work even if they don’t ultimately reach 
+their word-count goals.
 
 
-Total Lesson Time: 50 minutes
+We have created a suggested rubric that you 
+can use to assess students’ work. It is 
+based on the content of our curriculum and 
+young novelist workbooks, and contains 
+categories for characters, plot, setting, 
+dialogue, voice, and conventions. You should 
+feel free to modify it to fit your 
+classroom’s needs. (Students might also use 
+it for self-assessment of their novels.)
 
+Lesson Plan 1: Introducing NaNoWriMo and 
+Getting Rid of Inner Editors
 
-Objectives: By the end of this lesson, SWBAT (students will be able to):
+Objectives: By the end of this lesson, SWBAT 
+(students will be able to):
+
 1. Understand the NaNoWriMo project and its basic mission.
+
 2. Write for a short time frame explaining their definitions of creativity.
+
 3. Put aside their impulses to edit their writing until after November 30.
+
 4. Commit to maintaining a safe and respectful writing space.
 
 
 Materials:
+
 * "KWL" (Know, Want to Know, Learned) chart on board, transparency, or flipchart paper; explained in Step One.
+
 * A list of important NaNoWriMo facts on the board, transparency, or flipchart paper; explained in Step Two.
+
 * An "Inner Editor: Help and Hinder" chart on the board, transparency, or flipchart paper; explained in Step Three.
+
 * "In-class and Written Respect Expectations" on the board, transparency, or flipchart paper; explained in Step Four.
 
 
