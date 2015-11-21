@@ -5,12 +5,12 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1448068871.2244415
+_modified_time = 1448105375.1545334
 _enable_loop = True
 _template_filename = 'themes/monospace/templates/base.tmpl'
 _template_uri = 'base.tmpl'
 _source_encoding = 'utf-8'
-_exports = ['content', 'extra_head', 'belowtitle', 'extra_js']
+_exports = ['content', 'extra_js', 'belowtitle', 'extra_head']
 
 
 def _mako_get_namespace(context, name):
@@ -29,27 +29,27 @@ def render_body(context,**pageargs):
         __M_locals = __M_dict_builtin(pageargs=pageargs)
         _import_ns = {}
         _mako_get_namespace(context, 'base')._populate(_import_ns, ['*'])
-        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
-        base = _mako_get_namespace(context, 'base')
-        lang = _import_ns.get('lang', context.get('lang', UNDEFINED))
-        def extra_head():
-            return render_extra_head(context._locals(__M_locals))
-        template_hooks = _import_ns.get('template_hooks', context.get('template_hooks', UNDEFINED))
-        def extra_js():
-            return render_extra_js(context._locals(__M_locals))
-        body_end = _import_ns.get('body_end', context.get('body_end', UNDEFINED))
-        def content():
-            return render_content(context._locals(__M_locals))
-        translations = _import_ns.get('translations', context.get('translations', UNDEFINED))
-        abs_link = _import_ns.get('abs_link', context.get('abs_link', UNDEFINED))
-        set_locale = _import_ns.get('set_locale', context.get('set_locale', UNDEFINED))
         license = _import_ns.get('license', context.get('license', UNDEFINED))
-        blog_title = _import_ns.get('blog_title', context.get('blog_title', UNDEFINED))
+        translations = _import_ns.get('translations', context.get('translations', UNDEFINED))
         search_form = _import_ns.get('search_form', context.get('search_form', UNDEFINED))
         def belowtitle():
             return render_belowtitle(context._locals(__M_locals))
         len = _import_ns.get('len', context.get('len', UNDEFINED))
+        blog_title = _import_ns.get('blog_title', context.get('blog_title', UNDEFINED))
+        body_end = _import_ns.get('body_end', context.get('body_end', UNDEFINED))
+        lang = _import_ns.get('lang', context.get('lang', UNDEFINED))
+        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
+        template_hooks = _import_ns.get('template_hooks', context.get('template_hooks', UNDEFINED))
+        def content():
+            return render_content(context._locals(__M_locals))
         content_footer = _import_ns.get('content_footer', context.get('content_footer', UNDEFINED))
+        def extra_head():
+            return render_extra_head(context._locals(__M_locals))
+        base = _mako_get_namespace(context, 'base')
+        abs_link = _import_ns.get('abs_link', context.get('abs_link', UNDEFINED))
+        set_locale = _import_ns.get('set_locale', context.get('set_locale', UNDEFINED))
+        def extra_js():
+            return render_extra_js(context._locals(__M_locals))
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer(str(set_locale(lang)))
@@ -124,15 +124,14 @@ def render_content(context,**pageargs):
         context.caller_stack._pop_frame()
 
 
-def render_extra_head(context,**pageargs):
+def render_extra_js(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'base')._populate(_import_ns, ['*'])
-        def extra_head():
-            return render_extra_head(context)
+        def extra_js():
+            return render_extra_js(context)
         __M_writer = context.writer()
-        __M_writer('\n')
         return ''
     finally:
         context.caller_stack._pop_frame()
@@ -143,12 +142,12 @@ def render_belowtitle(context,**pageargs):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'base')._populate(_import_ns, ['*'])
-        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
-        translations = _import_ns.get('translations', context.get('translations', UNDEFINED))
         base = _mako_get_namespace(context, 'base')
         def belowtitle():
             return render_belowtitle(context)
         len = _import_ns.get('len', context.get('len', UNDEFINED))
+        translations = _import_ns.get('translations', context.get('translations', UNDEFINED))
+        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n')
         if len(translations) > 1:
@@ -163,14 +162,15 @@ def render_belowtitle(context,**pageargs):
         context.caller_stack._pop_frame()
 
 
-def render_extra_js(context,**pageargs):
+def render_extra_head(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'base')._populate(_import_ns, ['*'])
-        def extra_js():
-            return render_extra_js(context)
+        def extra_head():
+            return render_extra_head(context)
         __M_writer = context.writer()
+        __M_writer('\n')
         return ''
     finally:
         context.caller_stack._pop_frame()
@@ -178,6 +178,6 @@ def render_extra_js(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"line_map": {"135": 5, "141": 21, "23": 2, "153": 21, "26": 0, "155": 23, "156": 24, "154": 22, "158": 25, "159": 25, "160": 28, "166": 44, "157": 24, "179": 166, "54": 2, "55": 3, "56": 3, "57": 4, "58": 4, "63": 7, "64": 8, "65": 8, "66": 13, "67": 13, "72": 14, "73": 19, "74": 19, "75": 19, "76": 19, "77": 19, "78": 19, "83": 28, "84": 30, "85": 30, "86": 31, "87": 31, "88": 32, "89": 32, "90": 33, "91": 33, "92": 34, "93": 34, "94": 38, "95": 38, "96": 39, "97": 39, "98": 42, "99": 42, "104": 44, "105": 45, "106": 45, "107": 46, "108": 46, "114": 14, "127": 5}, "filename": "themes/monospace/templates/base.tmpl", "uri": "base.tmpl", "source_encoding": "utf-8"}
+{"uri": "base.tmpl", "source_encoding": "utf-8", "line_map": {"140": 21, "23": 2, "152": 21, "153": 22, "26": 0, "155": 24, "156": 24, "154": 23, "158": 25, "159": 28, "165": 5, "173": 5, "157": 25, "179": 173, "54": 2, "55": 3, "56": 3, "57": 4, "58": 4, "63": 7, "64": 8, "65": 8, "66": 13, "67": 13, "72": 14, "73": 19, "74": 19, "75": 19, "76": 19, "77": 19, "78": 19, "83": 28, "84": 30, "85": 30, "86": 31, "87": 31, "88": 32, "89": 32, "90": 33, "91": 33, "92": 34, "93": 34, "94": 38, "95": 38, "96": 39, "97": 39, "98": 42, "99": 42, "104": 44, "105": 45, "106": 45, "107": 46, "108": 46, "114": 14, "127": 44}, "filename": "themes/monospace/templates/base.tmpl"}
 __M_END_METADATA
 """
