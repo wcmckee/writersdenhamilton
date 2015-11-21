@@ -11,11 +11,11 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/2015/index.html</loc>
-  <lastmod>2015-11-20T23:20:00Z</lastmod>
+  <lastmod>2015-11-21T01:21:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/archive.html</loc>
-  <lastmod>2015-11-20T23:19:00Z</lastmod>
+  <lastmod>2015-11-21T01:17:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/authors/index.html</loc>
@@ -27,7 +27,11 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/authors/writersdenhamilton.html</loc>
-  <lastmod>2015-11-20T23:20:00Z</lastmod>
+  <lastmod>2015-11-21T01:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://writersdenhamilton.org.nz/categories/article.html</loc>
+  <lastmod>2015-11-21T01:21:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/artist.html</loc>
@@ -43,11 +47,11 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/creativecommons.html</loc>
-  <lastmod>2015-11-20T16:16:00Z</lastmod>
+  <lastmod>2015-11-21T01:21:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/index.html</loc>
-  <lastmod>2015-11-20T23:17:00Z</lastmod>
+  <lastmod>2015-11-21T01:17:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/information.html</loc>
@@ -82,6 +86,10 @@
   <lastmod>2015-11-20T16:16:00Z</lastmod>
  </url>
  <url>
+  <loc>http://writersdenhamilton.org.nz/categories/william.html</loc>
+  <lastmod>2015-11-21T01:21:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://writersdenhamilton.org.nz/categories/write.html</loc>
   <lastmod>2015-11-20T16:16:00Z</lastmod>
  </url>
@@ -95,11 +103,11 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/index-2.html</loc>
-  <lastmod>2015-11-20T23:19:00Z</lastmod>
+  <lastmod>2015-11-21T01:17:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/index.html</loc>
-  <lastmod>2015-11-20T23:20:00Z</lastmod>
+  <lastmod>2015-11-21T01:21:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/listings/index.html</loc>
@@ -119,7 +127,7 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/meeting-2015-12-02.html</loc>
-  <lastmod>2015-11-20T23:20:00Z</lastmod>
+  <lastmod>2015-11-21T01:17:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/nanowrimo15-day1.html</loc>
@@ -175,7 +183,7 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/nanowrimo15-day21.html</loc>
-  <lastmod>2015-11-20T23:20:00Z</lastmod>
+  <lastmod>2015-11-21T01:17:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/nanowrimo15-day3.html</loc>
@@ -220,5 +228,9 @@
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/superpower.html</loc>
   <lastmod>2015-11-20T10:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://writersdenhamilton.org.nz/posts/william-mckee-on-cc.html</loc>
+  <lastmod>2015-11-21T01:21:00Z</lastmod>
  </url>
 </urlset>

@@ -11,7 +11,11 @@
  </sitemap>
  <sitemap>
   <loc>http://writersdenhamilton.org.nz/authors/writersdenhamilton.xml</loc>
-  <lastmod>2015-11-20T23:20:00Z</lastmod>
+  <lastmod>2015-11-21T01:21:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://writersdenhamilton.org.nz/categories/article.xml</loc>
+  <lastmod>2015-11-21T01:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://writersdenhamilton.org.nz/categories/artist.xml</loc>
@@ -27,7 +31,7 @@
  </sitemap>
  <sitemap>
   <loc>http://writersdenhamilton.org.nz/categories/creativecommons.xml</loc>
-  <lastmod>2015-11-20T16:16:00Z</lastmod>
+  <lastmod>2015-11-21T01:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://writersdenhamilton.org.nz/categories/information.xml</loc>
@@ -62,6 +66,10 @@
   <lastmod>2015-11-20T16:16:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://writersdenhamilton.org.nz/categories/william.xml</loc>
+  <lastmod>2015-11-21T01:21:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://writersdenhamilton.org.nz/categories/write.xml</loc>
   <lastmod>2015-11-20T16:16:00Z</lastmod>
  </sitemap>
@@ -71,10 +79,10 @@
  </sitemap>
  <sitemap>
   <loc>http://writersdenhamilton.org.nz/rss.xml</loc>
-  <lastmod>2015-11-20T23:20:00Z</lastmod>
+  <lastmod>2015-11-21T01:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://writersdenhamilton.org.nz/sitemap.xml</loc>
-  <lastmod>2015-11-20T23:20:00Z</lastmod>
+  <lastmod>2015-11-21T01:21:00Z</lastmod>
  </sitemap>
 </sitemapindex>
