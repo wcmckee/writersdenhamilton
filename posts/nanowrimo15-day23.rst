@@ -6,25 +6,96 @@ not a house but it was a spaceship.
 Vanessa had located Antonys ship. She didn't want to get too close to hi sship or 
 he might notice her. She decided to 
 exit her spaceship and travel through space towards his ship - getting a 
-good inside - and maybe even entering the shiop. She had left her ship out of the rador of his ship. If he was scanning then her ship would
-be detected. Vanessa stepped into the suit. It had been specially designed to have boosters elements so that she is able to travel in the space
-quickly for a short period of time. The booster wasn't able to be detected from the ships rador and Vanessa was able to grab onto Antonys ship
-and view through the windows on what was happenig. Vanessa peaked through the window. She could see Detective straped to a chair. His arms and
-legs were tied down with leather straps. Detective was sitting in a seat accross from him - drinking a cup of coffee. 
+good inside - and maybe even entering the shiop. She had left her ship out of the rador of his ship. If he was scanning then 
+her ship would
+be detected. Vanessa stepped into the suit. It had been specially designed to have boosters elements so that she is able to 
+travel in the space
+quickly for a short period of time. The booster wasn't able to be detected from the ships rador and Vanessa was able to grab 
+onto Antonys ship and view through the windows on what was happenig. Vanessa peaked through the window. She could see 
+Detective straped to a chair. His arms and legs were tied down with leather straps. Detective was sitting in a seat 
+across from him - drinking a cup of coffee. From what Sarah could see Detective looked alive. He was sleeping but he had life
+in him. 'What did Antony do to bring him back to life?' Sarah wondered, scratching her head. She needed to get inside the ship.
+She needed to wake Detective and capture Antony. She was going to need to find a way to break into the ship without being 
+detected. The emergency hatches were all alarmed so unless she was able to get in there without setting the alarms off that 
+was out of the question. Cutting through the ship or finding an unsecure entry was the only way. Sarah had with her a communcation
+device with her that allowed 6b345 to scan events and give suggestions on the next course of step. 
 
 Blah blah blah said Antony. Waiting for Detective to wakeup 
-felt like a lifetime. He brewed him many cups of coffee and played endless video games well waiting. There was nothing to do except to wait.
-Antony often wondered what Detective would be doing at that point. He had no idea where Detective would be or what time. There was a chance 
+felt like a lifetime. He brewed him many cups of coffee and played endless video games well waiting. There was nothing to do 
+except to wait.
+Antony often wondered what Detective would be doing at that point. He had no idea where Detective would be or what time. 
+There was a chance 
 that he could experience multi timelines on his travels. 
 
+His head hurt. The pain shot through his left side of the brain. He wanted to move, to get up. Stand up.
+Move. He was straped down.  The leather straps overing his wrists and angles. Looking around he reconised the enviorment.
+It was a prewar space ship. They didn't make them like this anymore. Everything about it was vintage. From the colour choices
+to the style of the screws used to put the ship others. He tried to lift his right arm. It was straped down with a leather 
+wrist. 'Help', Detective calls out. There is no responce. Alone on a ship and straped to a chair. The ship didn't sound like
+it was on. The engines were silent. Looking over and out the window all he could see was darkness. Detective knew something 
+had changed. Antony was here before and now he's gone. The future changed when Detective went back. Now he was stuck here 
+straped to a chair with nobody on board. He tried to think about the last timeline he had experienced. Detective had grown 
+in control of the visions now, he was able to control them by stepping back and forward from the various lines. Sometimes
+he finds it easier to experience one line over another, it all depend though. He could see a reflection of himself in the ships
+window. His head was scabbed and bleeding. He had grown red sores all over his body which pussed with ooze. Detective couldn't 
+bear it. He clentched closed his eyes. The vision was still there though, another line where his face is normal, where there 
+are no scars. This is the future he wants. It's what he deserves. Detective has saved everyone.
 
-His head hurt. The pain shot through his left side of the brain. He wanted to movevv, to get up. Stand up.
-Move. He was straped down.  The leather straps overing his wrists and angles. 
-
-Detective found and captured Antony at a technolgy conference. It is the same conference Joey and Vanessa meet in. When Detective gets sent back
+Detective found and captured Antony at a technolgy conference. It is the same conference Joey and Vanessa meet in. When 
+Detective gets sent back
 from the spaceship he travels to a range of different times and chances many events. One events being the conference that 
+captures Antony at. Antony then actives the time switch on himself and is sent to another time. Detective and Antony are 
+chasing each other. The story tells all the events and different timeline and how various characters. Events are changed,
+changing the future that backfires. 
+
+The is a journal through space and time following a series of characters in various evolutional series of the human race. 
+An AI system is developed that clashes with an dying Alien lifeform developing part-alien, part-human child. This carries
+on with mixing cat with the part-alien, part-human dna. The Human race is wiped out therefore people are sent back to attempt
+to change events that lead. Sarahs Moon Training, Sarahs Moon Trip, Presidents Speech, Loth'Rak bringing Antony to Eath, 
+Antony leaving Earth for mars, Antony killing Sarah, Sarah and Joey Time Splet room, robotic takeover - saves Loth'Rak 
+race. Antony is never created. Antony starts showing up in the timeline through the device. No more characters. There is 
+already enough characters. There are some characters I'd like to merge into one or at least get new names. Structure could 
+really be looked at but that's something for the editing stages. For now just get down enough words to be a winner. 
+ 
+The figure walked down the road. Behind it the building was alight. Rich red flames burst from the ceiling. Mid gray smoke
+bilowed out above being blow to nearby houses with the strong wind. The CEO had just been enformed that the building was 
+burning. The govt had been using it for top secret NSA and NASA missions. They had trained Sarah there to carry out the 
+Moon and Mars missions. As time distance increased they lost control of how much they could trace and relized that some 
+of the ai bots had lost comunaction with mission control. Sarah must findout what happened to the bots. She investages the 
+scene on the Moon where a weapon battle took place between what looked like govt ai bots turning on each other. Govt denies
+clame to any of these. Govt in meantime is scrambling to find out what happened to a secection of their bots on the Moon that
+mrysterious go offline and are not responding to connection attempts. Cameras and all onboard security features were disabled.
+Antony takes control of one of the bots - known as 6b345. He uses it to destory Earth and brings Sarah back to Mars with 6b345.
+Once on Mars Antony kills Sarah and takes full control of 6b345. Vanessa later takes control of 6b345 when Antony escapes Mars
+kidnaping Detective on his escape. Vanessa tracks down Antonys ship, boarding it and killing Antony. She uses the timeswitch
+device to go back and find Detective. He awakes to find nobody there. Vanessa arrives to rescure him. Detective was woken by
+a noise inside the ship. One of the ships doors had opened. Someone had entered the ship. Detective paniced. Who would be in 
+the ship? He dreaded that it would be Antony. His goals in the past were to stop Antony from completeing his goals. Dective 
+thought it was a success when he awoke and Antony wasn't here. Detecive was relieved when a woman stood in front of him, 
+not Antony. 'I'm here to get you out of here', the woman told Antony. 	
+
+The Bee was the first live being that Antony had attempted to perform. He stuned the bee and injected his dna into the system,
+boosting the bee back to life. The Bee grew large and agressive. Antony had to shoot the creation with the ray gun. 
+
+Detective gets his hands on a ray gun and kills Ugnanka and attempts to kill Joey and Sarah. In one timeline he isn't there, 
+on the other he is. Crossing over happens all over the story. For example Detective find himself collabsed in another timelines
+and drags the body into the cubard so when Sarah and Joey look they don't see him. They find it strange though. 
+
+The Presidents Speech is important. It is told from many different perspectives and timelines. Detective has different roles 
+and goals each version of him there. He gives a speech after the president. Detective saves Joey who is in the crowd and would
+be killed by the attack. Sarah is a girl watchign the speech from television with her Mother. 
+Detective uses a stun gun on Joeys parents in order to get him out of there safely. Police notice the weird occurences of 
+Detectives skills and start to investage into him. Detective is spose kill Joey at the conference but knows he's not spose
+to. Antony shows up at conference to do it himself and Detective captures Antony. Then Antony actives the timesplit device
+and caused the two to travel to another time. 
+
+The Humans on Earth developed an AI system by using alien technology that is sent back in time in order to change events. The 
+technology sent back was Detective. They studied him and learnt how to beat his species, to save themselves. The Humans believed
+that Loth'Rak and his son - Antony are behind the attack on Earth which wipes out mankind. People are sent back to change this
+- making sure that events take place in order to secure 80,000 humans are taken to Mars to be preserved. Story followed events
+to active these humans on Mars and the events following it. Basically it's about mankinds fight for survival over Earth is 
+destoried and various conflects. 
 
 
-
-
+This is liceneced under a Creative Commons BY 4.0 licence. 
 
