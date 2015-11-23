@@ -1,38 +1,36 @@
 William Mckee is an artist, 
 web/software/videogame developer, writer, 
-public speaker, photographer, and 
-videographer.
+public speaker, photographer, videographer,
+and educater. 
 
-He is a volunteer for Creative Commons NZ
-helping to promote Creative Commons in both 
-his day to day life and through organisions 
+He volunteers for Creative Commons NZ
+helping to promote Creative Commons in 
+the Hamilton area and through organisions 
 he is involved with - artcontrol, Writers 
 Den Hamilton, Hamilton Computer Club, 
 Hamilton Library. Everything he creates 
 is licenced under a Creative Commons license,
 with preference for the more libral, and 
-open culture licences - CC BY and CC BY SA.
+open culture licences - CC BY and CC BY-SA.
 
 His art can be found at 
 `<http://artcontrol.me/>`_ and is 
 available under a Creative Commons 
 Attribution (BY) licence. 
-William is also a supporter and user of 
-open source software, and is passionate 
-about early childhood education.
+William is a supporter, user, and developer of 
+open source software and hardware. He is passionate 
+about early childhood education having volunteered for 
 
-"I use Creative Commons as an artist in 
-the hope that it helps promote my artwork, 
-and to make the world a better place," says 
+"Creative Commons is useful to an artist to promote 
+the work and it makes the world a better place," says 
 William. "Others may find uses for my art 
 and even make money from it, good on them!"
 
 During High School William spent the majority
-of his senior years in the Design words. He
-spent the majority of his time creating vector
+of his senior years in the Design room. Spenting the majority of his time creating vector
 designs. 
 
-William seriously became interested in 
+William became interested in 
 drawing after leaving high school and 
 attending UCOL in Palmerston North. 
 There he had a drawing tutor, Mark, 
@@ -49,7 +47,7 @@ to host his artwork.
 
 Originally powered by WordPress, he has since
 switched to the Python static website 
-generator
+generator - Nikola. This powers his various sites. 
  
 It was hosted with GoDaddy and ran CentOS. The site was powered by WordPress, 
 switching later to Nikola. 
@@ -57,7 +55,7 @@ He later also switched this to DigitalOcean
 with the operating system Debian, which is 
 used by the majority of his machines.
 
-While William was always interested in using 
+Well William was always interested in using 
 a Creative Commons licence, he at first 
 chose to use a more restrictive 
 Attribution-NonCommercial (BY-NC) licence 
@@ -73,6 +71,10 @@ paid for the material. It should therefore be licensed under the most liberal li
 (perhaps even public domain/creativecommons 
 zero). This allows the most freedom for 
 people to do what they like with the content."
+
+I like the idea of aribution. Everyone should be 
+licencing their copyright work under a Create Commons Attribution licence or
+zero.   
 
 William also point out that the 
 "Non-Commercial licences are hard to 
@@ -152,8 +154,9 @@ pieces were created on the fenceline of
 Whaihanga and Knighten Normal School. 
 Swarms of school children would crowd the 
 fenceline - watching and discussing the 
-artwork with him. They were often blown away 
-from how quickly he worked.
+artwork with him. They were blown away 
+from how quickly he worked and the 
+quality of his artwork. 
 
 "A hope of mine," William says, 
 "was the children would learn that art was 

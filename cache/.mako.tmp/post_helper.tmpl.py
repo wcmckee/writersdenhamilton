@@ -5,12 +5,12 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1448153954.6234162
+_modified_time = 1448254554.7476475
 _enable_loop = True
 _template_filename = '/usr/local/lib/python3.4/dist-packages/nikola/data/themes/base/templates/post_helper.tmpl'
 _template_uri = 'post_helper.tmpl'
 _source_encoding = 'utf-8'
-_exports = ['meta_translations', 'twitter_card_information', 'html_tags', 'mathjax_script', 'open_graph_metadata', 'html_pager']
+_exports = ['html_tags', 'twitter_card_information', 'mathjax_script', 'open_graph_metadata', 'meta_translations', 'html_pager']
 
 
 def render_body(context,**pageargs):
@@ -30,23 +30,23 @@ def render_body(context,**pageargs):
         context.caller_stack._pop_frame()
 
 
-def render_meta_translations(context,post):
+def render_html_tags(context,post):
     __M_caller = context.caller_stack._push_frame()
     try:
-        lang = context.get('lang', UNDEFINED)
-        sorted = context.get('sorted', UNDEFINED)
-        translations = context.get('translations', UNDEFINED)
-        len = context.get('len', UNDEFINED)
+        hidden_tags = context.get('hidden_tags', UNDEFINED)
+        _link = context.get('_link', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
-        if len(translations) > 1:
-            for langname in sorted(translations):
-                if langname != lang and post.is_translation_available(langname):
-                    __M_writer('                <link rel="alternate" hreflang="')
-                    __M_writer(str(langname))
-                    __M_writer('" href="')
-                    __M_writer(str(post.permalink(langname)))
-                    __M_writer('">\n')
+        if post.tags:
+            __M_writer('        <ul itemprop="keywords" class="tags">\n')
+            for tag in post.tags:
+                if tag not in hidden_tags:
+                    __M_writer('            <li><a class="tag p-category" href="')
+                    __M_writer(str(_link('tag', tag)))
+                    __M_writer('" rel="tag">')
+                    __M_writer(filters.html_escape(str(tag)))
+                    __M_writer('</a></li>\n')
+            __M_writer('        </ul>\n')
         return ''
     finally:
         context.caller_stack._pop_frame()
@@ -83,28 +83,6 @@ def render_twitter_card_information(context,post):
         context.caller_stack._pop_frame()
 
 
-def render_html_tags(context,post):
-    __M_caller = context.caller_stack._push_frame()
-    try:
-        _link = context.get('_link', UNDEFINED)
-        hidden_tags = context.get('hidden_tags', UNDEFINED)
-        __M_writer = context.writer()
-        __M_writer('\n')
-        if post.tags:
-            __M_writer('        <ul itemprop="keywords" class="tags">\n')
-            for tag in post.tags:
-                if tag not in hidden_tags:
-                    __M_writer('            <li><a class="tag p-category" href="')
-                    __M_writer(str(_link('tag', tag)))
-                    __M_writer('" rel="tag">')
-                    __M_writer(filters.html_escape(str(tag)))
-                    __M_writer('</a></li>\n')
-            __M_writer('        </ul>\n')
-        return ''
-    finally:
-        context.caller_stack._pop_frame()
-
-
 def render_mathjax_script(context,post):
     __M_caller = context.caller_stack._push_frame()
     try:
@@ -124,12 +102,12 @@ def render_mathjax_script(context,post):
 def render_open_graph_metadata(context,post):
     __M_caller = context.caller_stack._push_frame()
     try:
-        use_open_graph = context.get('use_open_graph', UNDEFINED)
         url_replacer = context.get('url_replacer', UNDEFINED)
-        blog_title = context.get('blog_title', UNDEFINED)
-        abs_link = context.get('abs_link', UNDEFINED)
         lang = context.get('lang', UNDEFINED)
         permalink = context.get('permalink', UNDEFINED)
+        blog_title = context.get('blog_title', UNDEFINED)
+        use_open_graph = context.get('use_open_graph', UNDEFINED)
+        abs_link = context.get('abs_link', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if use_open_graph:
@@ -161,6 +139,28 @@ def render_open_graph_metadata(context,post):
                 for tag in post.tags:
                     __M_writer('           <meta property="article:tag" content="')
                     __M_writer(filters.html_escape(str(tag)))
+                    __M_writer('">\n')
+        return ''
+    finally:
+        context.caller_stack._pop_frame()
+
+
+def render_meta_translations(context,post):
+    __M_caller = context.caller_stack._push_frame()
+    try:
+        lang = context.get('lang', UNDEFINED)
+        sorted = context.get('sorted', UNDEFINED)
+        len = context.get('len', UNDEFINED)
+        translations = context.get('translations', UNDEFINED)
+        __M_writer = context.writer()
+        __M_writer('\n')
+        if len(translations) > 1:
+            for langname in sorted(translations):
+                if langname != lang and post.is_translation_available(langname):
+                    __M_writer('                <link rel="alternate" hreflang="')
+                    __M_writer(str(langname))
+                    __M_writer('" href="')
+                    __M_writer(str(post.permalink(langname)))
                     __M_writer('">\n')
         return ''
     finally:
@@ -199,6 +199,6 @@ def render_html_pager(context,post):
 
 """
 __M_BEGIN_METADATA
-{"filename": "/usr/local/lib/python3.4/dist-packages/nikola/data/themes/base/templates/post_helper.tmpl", "source_encoding": "utf-8", "uri": "post_helper.tmpl", "line_map": {"16": 0, "21": 2, "22": 11, "23": 23, "24": 40, "25": 69, "26": 85, "27": 102, "33": 3, "41": 3, "42": 4, "43": 5, "44": 6, "45": 7, "46": 7, "47": 7, "48": 7, "49": 7, "55": 71, "60": 71, "61": 72, "62": 73, "63": 73, "64": 73, "65": 74, "66": 75, "67": 75, "68": 75, "69": 76, "70": 77, "71": 77, "72": 77, "73": 79, "74": 80, "75": 80, "76": 80, "77": 81, "78": 82, "79": 82, "80": 82, "86": 13, "92": 13, "93": 14, "94": 15, "95": 16, "96": 17, "97": 18, "98": 18, "99": 18, "100": 18, "101": 18, "102": 21, "108": 87, "113": 87, "114": 88, "115": 89, "116": 90, "117": 95, "118": 96, "124": 42, "134": 42, "135": 43, "136": 44, "137": 44, "138": 44, "139": 45, "140": 45, "141": 46, "142": 46, "143": 47, "144": 48, "145": 48, "146": 48, "147": 49, "148": 50, "149": 50, "150": 50, "151": 52, "152": 53, "153": 53, "154": 53, "155": 55, "156": 60, "157": 61, "158": 61, "159": 61, "160": 63, "161": 64, "162": 65, "163": 65, "164": 65, "170": 25, "175": 25, "176": 26, "177": 27, "178": 28, "179": 29, "180": 30, "181": 30, "182": 30, "183": 30, "184": 30, "185": 30, "186": 33, "187": 34, "188": 35, "189": 35, "190": 35, "191": 35, "192": 35, "193": 35, "194": 38, "200": 194}}
+{"source_encoding": "utf-8", "line_map": {"16": 0, "21": 2, "22": 11, "23": 23, "24": 40, "25": 69, "26": 85, "27": 102, "33": 13, "39": 13, "40": 14, "41": 15, "42": 16, "43": 17, "44": 18, "45": 18, "46": 18, "47": 18, "48": 18, "49": 21, "55": 71, "60": 71, "61": 72, "62": 73, "63": 73, "64": 73, "65": 74, "66": 75, "67": 75, "68": 75, "69": 76, "70": 77, "71": 77, "72": 77, "73": 79, "74": 80, "75": 80, "76": 80, "77": 81, "78": 82, "79": 82, "80": 82, "86": 87, "91": 87, "92": 88, "93": 89, "94": 90, "95": 95, "96": 96, "102": 42, "112": 42, "113": 43, "114": 44, "115": 44, "116": 44, "117": 45, "118": 45, "119": 46, "120": 46, "121": 47, "122": 48, "123": 48, "124": 48, "125": 49, "126": 50, "127": 50, "128": 50, "129": 52, "130": 53, "131": 53, "132": 53, "133": 55, "134": 60, "135": 61, "136": 61, "137": 61, "138": 63, "139": 64, "140": 65, "141": 65, "142": 65, "148": 3, "156": 3, "157": 4, "158": 5, "159": 6, "160": 7, "161": 7, "162": 7, "163": 7, "164": 7, "170": 25, "175": 25, "176": 26, "177": 27, "178": 28, "179": 29, "180": 30, "181": 30, "182": 30, "183": 30, "184": 30, "185": 30, "186": 33, "187": 34, "188": 35, "189": 35, "190": 35, "191": 35, "192": 35, "193": 35, "194": 38, "200": 194}, "uri": "post_helper.tmpl", "filename": "/usr/local/lib/python3.4/dist-packages/nikola/data/themes/base/templates/post_helper.tmpl"}
 __M_END_METADATA
 """

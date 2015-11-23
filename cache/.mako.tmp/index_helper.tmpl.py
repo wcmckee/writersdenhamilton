@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1448153956.200781
+_modified_time = 1448254554.0362933
 _enable_loop = True
 _template_filename = '/usr/local/lib/python3.4/dist-packages/nikola/data/themes/base/templates/index_helper.tmpl'
 _template_uri = 'index_helper.tmpl'
@@ -28,8 +28,8 @@ def render_body(context,**pageargs):
 def render_mathjax_script(context,posts):
     __M_caller = context.caller_stack._push_frame()
     try:
-        any = context.get('any', UNDEFINED)
         use_katex = context.get('use_katex', UNDEFINED)
+        any = context.get('any', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if any(post.is_mathjax for post in posts):
@@ -45,9 +45,9 @@ def render_mathjax_script(context,posts):
 def render_html_pager(context):
     __M_caller = context.caller_stack._push_frame()
     try:
-        nextlink = context.get('nextlink', UNDEFINED)
-        prevlink = context.get('prevlink', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
+        prevlink = context.get('prevlink', UNDEFINED)
+        nextlink = context.get('nextlink', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if prevlink or nextlink:
@@ -72,6 +72,6 @@ def render_html_pager(context):
 
 """
 __M_BEGIN_METADATA
-{"filename": "/usr/local/lib/python3.4/dist-packages/nikola/data/themes/base/templates/index_helper.tmpl", "source_encoding": "utf-8", "uri": "index_helper.tmpl", "line_map": {"64": 13, "65": 13, "66": 13, "67": 16, "73": 67, "16": 0, "21": 19, "22": 36, "28": 21, "34": 21, "35": 22, "36": 23, "37": 24, "38": 29, "39": 30, "45": 2, "52": 2, "53": 3, "54": 4, "55": 6, "56": 7, "57": 8, "58": 8, "59": 8, "60": 8, "61": 11, "62": 12, "63": 13}}
+{"source_encoding": "utf-8", "line_map": {"64": 13, "65": 13, "66": 13, "67": 16, "73": 67, "16": 0, "21": 19, "22": 36, "28": 21, "34": 21, "35": 22, "36": 23, "37": 24, "38": 29, "39": 30, "45": 2, "52": 2, "53": 3, "54": 4, "55": 6, "56": 7, "57": 8, "58": 8, "59": 8, "60": 8, "61": 11, "62": 12, "63": 13}, "uri": "index_helper.tmpl", "filename": "/usr/local/lib/python3.4/dist-packages/nikola/data/themes/base/templates/index_helper.tmpl"}
 __M_END_METADATA
 """
