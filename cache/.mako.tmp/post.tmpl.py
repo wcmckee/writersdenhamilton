@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1448278759.409589
+_modified_time = 1448318837.2087367
 _enable_loop = True
 _template_filename = 'themes/monospace/templates/post.tmpl'
 _template_uri = 'post.tmpl'
@@ -20,14 +20,14 @@ def _mako_get_namespace(context, name):
         _mako_generate_namespaces(context)
         return context.namespaces[(__name__, name)]
 def _mako_generate_namespaces(context):
-    ns = runtime.TemplateNamespace('helper', context._clean_inheritance_tokens(), templateuri='post_helper.tmpl', callables=None,  calling_uri=_template_uri)
-    context.namespaces[(__name__, 'helper')] = ns
-
     ns = runtime.TemplateNamespace('pheader', context._clean_inheritance_tokens(), templateuri='post_header.tmpl', callables=None,  calling_uri=_template_uri)
     context.namespaces[(__name__, 'pheader')] = ns
 
     ns = runtime.TemplateNamespace('comments', context._clean_inheritance_tokens(), templateuri='comments_helper.tmpl', callables=None,  calling_uri=_template_uri)
     context.namespaces[(__name__, 'comments')] = ns
+
+    ns = runtime.TemplateNamespace('helper', context._clean_inheritance_tokens(), templateuri='post_helper.tmpl', callables=None,  calling_uri=_template_uri)
+    context.namespaces[(__name__, 'helper')] = ns
 
 def _mako_inherit(template, context):
     _mako_generate_namespaces(context)
@@ -36,17 +36,17 @@ def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
-        _link = context.get('_link', UNDEFINED)
+        helper = _mako_get_namespace(context, 'helper')
+        post = context.get('post', UNDEFINED)
+        pheader = _mako_get_namespace(context, 'pheader')
+        messages = context.get('messages', UNDEFINED)
+        comments = _mako_get_namespace(context, 'comments')
         def content():
             return render_content(context._locals(__M_locals))
-        helper = _mako_get_namespace(context, 'helper')
-        pheader = _mako_get_namespace(context, 'pheader')
-        post = context.get('post', UNDEFINED)
-        comments = _mako_get_namespace(context, 'comments')
-        date_format = context.get('date_format', UNDEFINED)
+        _link = context.get('_link', UNDEFINED)
         def extra_head():
             return render_extra_head(context._locals(__M_locals))
-        messages = context.get('messages', UNDEFINED)
+        date_format = context.get('date_format', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n')
@@ -70,10 +70,10 @@ def render_body(context,**pageargs):
 def render_extra_head(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
+        post = context.get('post', UNDEFINED)
+        helper = _mako_get_namespace(context, 'helper')
         def extra_head():
             return render_extra_head(context)
-        helper = _mako_get_namespace(context, 'helper')
-        post = context.get('post', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer(str(helper.twitter_card_information(post)))
@@ -90,15 +90,15 @@ def render_extra_head(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        _link = context.get('_link', UNDEFINED)
+        helper = _mako_get_namespace(context, 'helper')
+        post = context.get('post', UNDEFINED)
+        pheader = _mako_get_namespace(context, 'pheader')
+        messages = context.get('messages', UNDEFINED)
+        comments = _mako_get_namespace(context, 'comments')
         def content():
             return render_content(context)
-        helper = _mako_get_namespace(context, 'helper')
-        pheader = _mako_get_namespace(context, 'pheader')
-        post = context.get('post', UNDEFINED)
-        comments = _mako_get_namespace(context, 'comments')
+        _link = context.get('_link', UNDEFINED)
         date_format = context.get('date_format', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n    <div class="post">\n    ')
         __M_writer(str(pheader.html_title()))
@@ -148,6 +148,6 @@ def render_content(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"filename": "themes/monospace/templates/post.tmpl", "line_map": {"128": 26, "129": 28, "130": 31, "131": 32, "132": 32, "133": 35, "134": 35, "135": 36, "136": 36, "137": 37, "138": 38, "139": 38, "140": 38, "141": 40, "142": 40, "143": 40, "149": 143, "23": 2, "26": 3, "29": 4, "35": 0, "51": 2, "52": 3, "53": 4, "54": 5, "59": 11, "64": 42, "70": 6, "78": 6, "79": 7, "80": 7, "81": 8, "82": 9, "83": 9, "84": 9, "90": 12, "103": 12, "104": 14, "105": 14, "106": 17, "107": 17, "108": 17, "109": 17, "110": 17, "111": 17, "112": 18, "113": 19, "114": 19, "115": 19, "116": 19, "117": 19, "118": 21, "119": 23, "120": 24, "121": 24, "122": 24, "123": 25, "124": 26, "125": 26, "126": 26, "127": 26}, "uri": "post.tmpl", "source_encoding": "utf-8"}
+{"filename": "themes/monospace/templates/post.tmpl", "line_map": {"128": 26, "129": 28, "130": 31, "131": 32, "132": 32, "133": 35, "134": 35, "135": 36, "136": 36, "137": 37, "138": 38, "139": 38, "140": 38, "141": 40, "142": 40, "143": 40, "149": 143, "23": 3, "26": 4, "29": 2, "35": 0, "51": 2, "52": 3, "53": 4, "54": 5, "59": 11, "64": 42, "70": 6, "78": 6, "79": 7, "80": 7, "81": 8, "82": 9, "83": 9, "84": 9, "90": 12, "103": 12, "104": 14, "105": 14, "106": 17, "107": 17, "108": 17, "109": 17, "110": 17, "111": 17, "112": 18, "113": 19, "114": 19, "115": 19, "116": 19, "117": 19, "118": 21, "119": 23, "120": 24, "121": 24, "122": 24, "123": 25, "124": 26, "125": 26, "126": 26, "127": 26}, "source_encoding": "utf-8", "uri": "post.tmpl"}
 __M_END_METADATA
 """
