@@ -768,7 +768,7 @@ LICENSE = """
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
 <img alt="Creative Commons License BY"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
+src="/https://upload.wikimedia.org/wikipedia/commons/1/16/CC-BY_icon.svg">
 <p>Except where otherwise noted, copyright content on this site is licensed under a Creative Commons Attribution 4.0 International Licence.</p>
 """
 
