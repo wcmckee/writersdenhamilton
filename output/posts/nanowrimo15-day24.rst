@@ -87,7 +87,10 @@ it, forgot about it - it may not have been so bad. Each time it got
 worse and worse. They had always encourged people to prep for the
 future. For the worse. People were buying small transport pods that
 would get them off the Earth should the attack happen. It drove
-everyone insane until it happened. Sometimes there is a
+everyone insane until it happened. Sometimes there is a study into these
+people to find out how much of a infucence into their future. Because they
+were shown what was going to happen they believed that they couldn't change it
+and it would happen. Their belief into the ideas lead it to happen. This is bad. 
 
 The holidays they decleared were March 16 Sarah, June 24 Antony. Every
 year on these days people would gather at the statues of these
@@ -139,12 +142,12 @@ is saying STOP. Creative Commons is saying. Come, share, play,
 collubrate. It may sound risky but why stop innovation for greed?  
 
 the virus spreed between the humans when detective returned to Mars. How much of this story is true that
-is what they reallt want to see what has happened. Making the minimal each day was the key to success. It's not imposible, it just rakes a 
+is what they reallt want to see what has happened. Making the minimal each day was the key to success. It's not imposible, it just takes a 
+daily disaplinted skill to get it done every day. Even if you don't feel like it - you have a goal to reach and you need to make it. 
 
-there 
 It's true, she wasnt sure about what to do to cure this virus. vanessa thought she had it under control but she was wrong. She needed to find out 
 what was going so bad with the timelines. She wasnt even sure who was manipalting the bots. She had suspected Detective change events in order 
-toget his appearence fixed \. there was some moments when it didnt work. Oh this was going to be fun Vanessa thought to herself. Therer isnt 
+toget his appearence fixed. there was some moments when it didnt work. Oh this was going to be fun Vanessa thought to herself. Therer isnt 
 much left till the end. It would be created now. This will update automaticly with Nikola build comand. It then sends the data to puthub. every hour 
 the webserver performs an git pull - pulling down changes from github. What the system needs is an easy way for people to commit changes. Maybe
 an email address they email and it creates the meta file data from all the data in the email. Already one email has been turned into a blog post.
@@ -156,7 +159,8 @@ still not sure what happened with that creature. Some say that he was erased fro
 this timeline ready to pounce. Vanessa doesn't know what to believe but knows that it's important to be prepared if he ever does return. 
 
 People were scared of Detective and feared for their lives on word that he was infected with a virus that could spread to them and kill them. 
-Vanessa didn't allow Detective to walk down the street by himself incase he was attach by protesters. The citizens of Mars had formed a comutee 
+Vanessa didn't allow Detective to walk down the street by himself incase he was attacked by protesters. The citizens of Mars had formed a comutee 
 and were protesting about Detective being kept on Earth when he was such a risk for mankind. People believed that he was no longer human, that 
 he was a zombie, someone that dersevered to be in the ground. Detective didn't believe this. He felt human. He felt just like he use to. For 
-Detective nothing had changed. 
+Detective nothing had changed. Vanessa wasn't sure. In one way she wanted to keep him around in order to studie the changes. On the otherhand 
+if he poses a threat for mankind on Mars he needs to be controled. 
