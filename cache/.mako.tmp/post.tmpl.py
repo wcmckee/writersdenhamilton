@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1448318837.2087367
+_modified_time = 1448328314.7261524
 _enable_loop = True
 _template_filename = 'themes/monospace/templates/post.tmpl'
 _template_uri = 'post.tmpl'
@@ -36,17 +36,17 @@ def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
-        helper = _mako_get_namespace(context, 'helper')
         post = context.get('post', UNDEFINED)
-        pheader = _mako_get_namespace(context, 'pheader')
-        messages = context.get('messages', UNDEFINED)
-        comments = _mako_get_namespace(context, 'comments')
-        def content():
-            return render_content(context._locals(__M_locals))
-        _link = context.get('_link', UNDEFINED)
         def extra_head():
             return render_extra_head(context._locals(__M_locals))
         date_format = context.get('date_format', UNDEFINED)
+        comments = _mako_get_namespace(context, 'comments')
+        pheader = _mako_get_namespace(context, 'pheader')
+        def content():
+            return render_content(context._locals(__M_locals))
+        _link = context.get('_link', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
+        helper = _mako_get_namespace(context, 'helper')
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n')
@@ -71,9 +71,9 @@ def render_extra_head(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         post = context.get('post', UNDEFINED)
-        helper = _mako_get_namespace(context, 'helper')
         def extra_head():
             return render_extra_head(context)
+        helper = _mako_get_namespace(context, 'helper')
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer(str(helper.twitter_card_information(post)))
@@ -90,15 +90,15 @@ def render_extra_head(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        helper = _mako_get_namespace(context, 'helper')
         post = context.get('post', UNDEFINED)
-        pheader = _mako_get_namespace(context, 'pheader')
-        messages = context.get('messages', UNDEFINED)
+        date_format = context.get('date_format', UNDEFINED)
         comments = _mako_get_namespace(context, 'comments')
+        pheader = _mako_get_namespace(context, 'pheader')
         def content():
             return render_content(context)
         _link = context.get('_link', UNDEFINED)
-        date_format = context.get('date_format', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
+        helper = _mako_get_namespace(context, 'helper')
         __M_writer = context.writer()
         __M_writer('\n    <div class="post">\n    ')
         __M_writer(str(pheader.html_title()))
@@ -148,6 +148,6 @@ def render_content(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"filename": "themes/monospace/templates/post.tmpl", "line_map": {"128": 26, "129": 28, "130": 31, "131": 32, "132": 32, "133": 35, "134": 35, "135": 36, "136": 36, "137": 37, "138": 38, "139": 38, "140": 38, "141": 40, "142": 40, "143": 40, "149": 143, "23": 3, "26": 4, "29": 2, "35": 0, "51": 2, "52": 3, "53": 4, "54": 5, "59": 11, "64": 42, "70": 6, "78": 6, "79": 7, "80": 7, "81": 8, "82": 9, "83": 9, "84": 9, "90": 12, "103": 12, "104": 14, "105": 14, "106": 17, "107": 17, "108": 17, "109": 17, "110": 17, "111": 17, "112": 18, "113": 19, "114": 19, "115": 19, "116": 19, "117": 19, "118": 21, "119": 23, "120": 24, "121": 24, "122": 24, "123": 25, "124": 26, "125": 26, "126": 26, "127": 26}, "source_encoding": "utf-8", "uri": "post.tmpl"}
+{"line_map": {"128": 26, "129": 28, "130": 31, "131": 32, "132": 32, "133": 35, "134": 35, "135": 36, "136": 36, "137": 37, "138": 38, "139": 38, "140": 38, "141": 40, "142": 40, "143": 40, "149": 143, "23": 3, "26": 4, "29": 2, "35": 0, "51": 2, "52": 3, "53": 4, "54": 5, "59": 11, "64": 42, "70": 6, "78": 6, "79": 7, "80": 7, "81": 8, "82": 9, "83": 9, "84": 9, "90": 12, "103": 12, "104": 14, "105": 14, "106": 17, "107": 17, "108": 17, "109": 17, "110": 17, "111": 17, "112": 18, "113": 19, "114": 19, "115": 19, "116": 19, "117": 19, "118": 21, "119": 23, "120": 24, "121": 24, "122": 24, "123": 25, "124": 26, "125": 26, "126": 26, "127": 26}, "uri": "post.tmpl", "filename": "themes/monospace/templates/post.tmpl", "source_encoding": "utf-8"}
 __M_END_METADATA
 """
