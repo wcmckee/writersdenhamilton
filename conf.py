@@ -131,6 +131,7 @@ NAVIGATION_LINKS = {
         ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS feed"),
 	("https://twitter.com/writersdenham", "Twitter"),
+	("https://github.com/wcmckee/writersdenhamilton", "Site Source"),
     ),
 }
 
@@ -272,7 +273,7 @@ COMPILERS = {
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
-# LOGO_URL = ''
+LOGO_URL = 'writersdenhamilton.svg'
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
@@ -768,7 +769,7 @@ LICENSE = """
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
 <img alt="Creative Commons License BY"
 style="border-width:0; margin-bottom:12px;"
-src="/https://upload.wikimedia.org/wikipedia/commons/1/16/CC-BY_icon.svg">
+src="/https://upload.wikimedia.org/wikipedia/commons/1/16/CC-BY_icon.svg"></a>
 <p>Except where otherwise noted, copyright content on this site is licensed under a Creative Commons Attribution 4.0 International Licence.</p>
 """
 
