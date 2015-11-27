@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1448620473.8179193
+_modified_time = 1448662152.2713315
 _enable_loop = True
 _template_filename = 'themes/monospace/templates/index.tmpl'
 _template_uri = 'index.tmpl'
@@ -20,11 +20,11 @@ def _mako_get_namespace(context, name):
         _mako_generate_namespaces(context)
         return context.namespaces[(__name__, name)]
 def _mako_generate_namespaces(context):
-    ns = runtime.TemplateNamespace('comments', context._clean_inheritance_tokens(), templateuri='comments_helper.tmpl', callables=None,  calling_uri=_template_uri)
-    context.namespaces[(__name__, 'comments')] = ns
-
     ns = runtime.TemplateNamespace('helper', context._clean_inheritance_tokens(), templateuri='index_helper.tmpl', callables=None,  calling_uri=_template_uri)
     context.namespaces[(__name__, 'helper')] = ns
+
+    ns = runtime.TemplateNamespace('comments', context._clean_inheritance_tokens(), templateuri='comments_helper.tmpl', callables=None,  calling_uri=_template_uri)
+    context.namespaces[(__name__, 'comments')] = ns
 
 def _mako_inherit(template, context):
     _mako_generate_namespaces(context)
@@ -33,15 +33,15 @@ def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
+        posts = context.get('posts', UNDEFINED)
         _link = context.get('_link', UNDEFINED)
-        date_format = context.get('date_format', UNDEFINED)
+        comments = _mako_get_namespace(context, 'comments')
         def content():
             return render_content(context._locals(__M_locals))
-        posts = context.get('posts', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
         helper = _mako_get_namespace(context, 'helper')
-        comments = _mako_get_namespace(context, 'comments')
         index_teasers = context.get('index_teasers', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
+        date_format = context.get('date_format', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n')
@@ -59,15 +59,15 @@ def render_body(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
+        posts = context.get('posts', UNDEFINED)
         _link = context.get('_link', UNDEFINED)
-        date_format = context.get('date_format', UNDEFINED)
+        comments = _mako_get_namespace(context, 'comments')
         def content():
             return render_content(context)
-        posts = context.get('posts', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
         helper = _mako_get_namespace(context, 'helper')
-        comments = _mako_get_namespace(context, 'comments')
         index_teasers = context.get('index_teasers', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
+        date_format = context.get('date_format', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         for post in posts:
@@ -111,6 +111,6 @@ def render_content(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"filename": "themes/monospace/templates/index.tmpl", "uri": "index.tmpl", "line_map": {"23": 3, "26": 2, "32": 0, "46": 2, "47": 3, "48": 4, "53": 31, "59": 5, "72": 5, "73": 6, "74": 7, "75": 8, "76": 8, "77": 8, "78": 8, "79": 11, "80": 11, "81": 11, "82": 11, "83": 11, "84": 11, "85": 15, "86": 16, "87": 17, "88": 17, "89": 17, "90": 17, "91": 17, "92": 20, "93": 22, "94": 22, "95": 23, "96": 24, "97": 24, "98": 24, "99": 26, "100": 28, "101": 28, "102": 28, "103": 29, "104": 29, "105": 30, "106": 30, "112": 106}, "source_encoding": "utf-8"}
+{"filename": "themes/monospace/templates/index.tmpl", "source_encoding": "utf-8", "line_map": {"23": 2, "26": 3, "32": 0, "46": 2, "47": 3, "48": 4, "53": 31, "59": 5, "72": 5, "73": 6, "74": 7, "75": 8, "76": 8, "77": 8, "78": 8, "79": 11, "80": 11, "81": 11, "82": 11, "83": 11, "84": 11, "85": 15, "86": 16, "87": 17, "88": 17, "89": 17, "90": 17, "91": 17, "92": 20, "93": 22, "94": 22, "95": 23, "96": 24, "97": 24, "98": 24, "99": 26, "100": 28, "101": 28, "102": 28, "103": 29, "104": 29, "105": 30, "106": 30, "112": 106}, "uri": "index.tmpl"}
 __M_END_METADATA
 """
