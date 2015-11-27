@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Writers Den Hamilton (writersdenhamilton)</title><link>http://writersdenhamilton.org.nz</link><description></description><atom:link rel="self" href="http://writersdenhamilton.org.nz/authors/writersdenhamilton.xml" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Fri, 27 Nov 2015 07:41:39 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>nanowrimo15-day27</title><link>http://writersdenhamilton.org.nz/posts/nanowrimo15-day27.html</link><dc:creator>writersdenhamilton</dc:creator><description>&lt;div&gt;&lt;p&gt;Antony, Detective, Sarah, Vanessa, Loth'Rak, Joey. These were the names on the document. Each name had a section that contained information on that
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Writers Den Hamilton (writersdenhamilton)</title><link>http://writersdenhamilton.org.nz</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://writersdenhamilton.org.nz/authors/writersdenhamilton.xml"></atom:link><language>en</language><lastBuildDate>Fri, 27 Nov 2015 10:34:23 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>nanowrimo15-day27</title><link>http://writersdenhamilton.org.nz/posts/nanowrimo15-day27.html</link><dc:creator>writersdenhamilton</dc:creator><description>&lt;div&gt;&lt;p&gt;Antony, Detective, Sarah, Vanessa, Loth'Rak, Joey. These were the names on the document. Each name had a section that contained information on that
 name. The document had been put together by Vanessa. It contained all the information she could find in her research. The name of the document
 was: It Will Not Be Mine. It was named after a mod on a popular Redditsubreddit. It was also refered to the fact that the time split device wasn't
 able to be kept by anyone. They couldn't work out what happened to the device in the end. There are areas on the report that were not complete.
@@ -12,13 +12,25 @@ dying and wanted to make sure his race lived on after he died - through Antony. 
 here in events. For example in the robot dominace timeline Loth'Rak comes to Earth much later - and for a different reason. The reason why he comes
 back on the other timeline is because he knew his planet was spose to be destoried - it had happened before for him but not for his planet and
 people. Loth'Rak discovers that no matter what he does the best outcome for anyone is that his race is killed. He doesn't like this but he
-relizes that its the best outcome for everyone.&lt;/p&gt;
+relizes that its the best outcome for everyone. When the humans don't end up getting the tech to destory Loth'Raks planet then he ends up destoring
+the planet himself. It's painful for him to do this but he has no choice. The timelines are stuck in a loop until the event happens to progress then
+on.&lt;/p&gt;
+&lt;p&gt;GNU Image Manimipaltion Program. This was the open source software that the robots were trained with. They would use a wacom tablet with a raspberry
+pi for the painting. It would be completed quickly and to a high standard. It was easier to get the bots to paint digital piceces over traditinal
+works. Tradicial works usually made lots of mess and cost more. The digital work was cheaper to produce and the standard was just as high. GIMP
+was often critisised as to not being very powerful compard to proparety software such as Photoshop. The bots couldn't use Photoshop well. People
+had attempted to get them to run it but it was slow and laggy. The bots were connected to the ipython kernal running on the raspberry pi. This allowed
+them to control the mouse with their brain waves. They were able to send api calls through python and into gimp. Turtle was a popular tool that the
+bots started with untill they moved into more complex tasks. As the bots got better they learnt to connect to the api hundrads of times - similar
+to having 100s of brushes on a canvas. This is how they got so quick at creating the pieces of artwork.&lt;/p&gt;
 &lt;p&gt;Some of the character meet. Not everyone does though. Some of the timelines characters don't exsist - such as in the robot dominated line Antony
 is never created. Loth'Rak never had a reason to create him. Antony ends up in the line - dragged accross from another line. It is unclear if
 Antony choose to enter the timeline but since entering the timeline he has caused great harm to the line. Events took place that were completely
 out of character. It's as he corrupted the line. The research again pointed back to Antony and Detective as the two that went back and changed
 events. Detective would of been on Antonys ship when he went back. There is no evidence in the documents to show that he went back at any other
-point.&lt;/p&gt;
+point. Events change for certain characters and the relize it. This can be bad for everyone. It's almost over and this is going to be the last
+few mooments. They hopes you enjoyed the stories. It's not over quite yet. It's always someone that jumps out and announces that something else
+must happen before the story can end. It's over now.&lt;/p&gt;
 &lt;p&gt;What happens if Sarah isn't killed on Mars. She arrives on Mars after escaping the Earths Moon attack. When she arrived on Mars she found 6b345
 amongest her ship. They set off to active the 80,000 humans that were sent to Mars. Sarah and 6b345 travel to the site and active the humans. Every
 one lives happily ever after on Mars. Antony isn't there. Humans later go back to Earth to discover what happened. Events play through again this
@@ -80,7 +92,11 @@ censorship and the humans could learn something from his actions - even though t
 produced, one being the full and complete record and the other being the censored version that removed all mention of Antony. The majority of people
 believe the full and complete version is the only true copy of the document. The text was licensed under a Creative Commons Attubuation licence with
 the data under Creative Commons Zero licence. Being in a open licence meant that people could take the documents and use, remix and adopt the work
-to their own liking.&lt;/p&gt;&lt;/div&gt;</description><category>NaNoWriMo</category><category>novel</category><category>science fiction</category><guid>http://writersdenhamilton.org.nz/posts/nanowrimo15-day27.html</guid><pubDate>Thu, 26 Nov 2015 11:01:58 GMT</pubDate></item><item><title>cc-growth</title><link>http://writersdenhamilton.org.nz/posts/cc-growth.html</link><dc:creator>writersdenhamilton</dc:creator><description>&lt;div&gt;&lt;p&gt;Hold monthly Creative Commons meetups in major cities. Everyone welcome. Hook volunteers.
+to their own liking.&lt;/p&gt;
+&lt;p&gt;Antony put the pen down. 'Is that all,' he asked Sarah. She nodded. The information that Sarah had shared would be kept in a archieve in case other
+time lines needed the information. She had agreed to all these terms. Sarah knew she was doing a deal with the devil dealing with Antony in this
+moment. She had no choice, no idea where else to go with the information. At least now that Antony has it would be able to be shared. Sarah knew
+the world was over but there was a chance these people could save it.&lt;/p&gt;&lt;/div&gt;</description><category>NaNoWriMo</category><category>novel</category><category>science fiction</category><guid>http://writersdenhamilton.org.nz/posts/nanowrimo15-day27.html</guid><pubDate>Thu, 26 Nov 2015 11:01:58 GMT</pubDate></item><item><title>cc-growth</title><link>http://writersdenhamilton.org.nz/posts/cc-growth.html</link><dc:creator>writersdenhamilton</dc:creator><description>&lt;div&gt;&lt;p&gt;Hold monthly Creative Commons meetups in major cities. Everyone welcome. Hook volunteers.
 Pizza and Drinks. Have a speaker/problem pitch and sprint structure. Open Education Resource Creation.
 Short two hour sprint on creating open education resources. Find sponsers for the meetups if need be.&lt;/p&gt;
 &lt;p&gt;More Twitter. Another Twitter account.&lt;/p&gt;&lt;/div&gt;</description><guid>http://writersdenhamilton.org.nz/posts/cc-growth.html</guid><pubDate>Thu, 26 Nov 2015 11:00:00 GMT</pubDate></item><item><title>nanowrimo15-day26</title><link>http://writersdenhamilton.org.nz/posts/nanowrimo15-day26.html</link><dc:creator>writersdenhamilton</dc:creator><description>&lt;div&gt;&lt;p&gt;What happened the day after the Presidents speech in each timeline?
