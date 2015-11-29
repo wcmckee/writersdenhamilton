@@ -1,11 +1,11 @@
 body
 {
 	margin: 0;
-	color: #8c837a;
-	background: #494949;
-	text-align: center;
+	color: black;
+	background: white;
+	text-align: left;
 	font-family: monospace;
-	font-size: 13px;
+	font-size: 9px;
 }
 a
 {
@@ -34,11 +34,10 @@ p
 }
 h1
 {
-	font-size: 17px;
+	font-size: 12px;
 	font-weight: bold;
 	color: #505050;
 	margin: 0 0 16px 0;
-	text-transform: uppercase;
 }
 .teaser h1 {
     padding-right: 160px;
@@ -47,21 +46,20 @@ h1
 .teaser h1 time {
     position: absolute;
     text-align: right;
-	color: #8c837a;
+	color: #black;
     top: 1px;
     right: 0px;
     font-size: 14px;
 }
 h2
 {
-	font-size: 16px;
-	font-weight: bold;
-	color: #6d6964;
+	font-size: 11px;
+	color: black;
 	margin: 16px 0 10px 0;
 }
 h3
 {
-	font-size: 14px;
+	font-size: 10px;
 	font-weight: bold;
 	color: #8c837a;
 	margin: 10px 0 6px 0;
@@ -73,7 +71,6 @@ ul
 }
 li 
 {
-	background: transparent url(../img/bullet.png) no-repeat 2px 4px;
 	padding: 0 0 0 24px;
 	margin: 6px 0px;
 	list-style: none; 
@@ -81,26 +78,24 @@ li
 #wrp
 {
 	margin: 0;
-	background: #5c5c5c url(../img/wrp.png) repeat top left;
 }
 #cont
 {
-	width: 815px;
+	width: 600px;
 	text-align: left;
 	margin: 0 auto;
-	background: transparent url(../img/cont.png) repeat-y top left;
 }
 #page 
 {
 	position: relative;
-	width: 775px;
+	width: 600px;
 	margin: 0px 20px;
-	background: #fbf7f1 url(../img/page.png) repeat-y top left;
 }
 header
 {
-	height: 248px;
-	background: transparent url(../img/header.svg) no-repeat top center;
+	height: 90px;
+	background: transparent url(../img/header.svg) no-repeat top left;
+	margin-top: 20px;
 }
 header h1
 {
@@ -108,11 +103,11 @@ header h1
 }
 nav
 {
-    font-size: 20px;
+    font-size: 9px;
 	border-right: 1px solid #d3c8c4;
 	float: left;
-	width: 50px;
-	margin-left: 18px;
+	width: 100px;
+	margin-left: 12px;
 	display: inline; /* FIX IE double margin bug */
     opacity: 0.8;
 }
@@ -138,26 +133,24 @@ nav li a {
 #content
 {
 	margin-left: 130px;
-	width: 610px;
+	width: 480px;
 }
 #ftr
 {
 	position: relative;
 	clear: both;
-	font-size: 11px;
+	font-size: 9px;
 	height: 47px;
-	background: transparent url(../img/ftr.jpg) no-repeat top left;
 }
 
 footer
 {
-	background: transparent url(../img/footer.png) repeat-x top left;
 	padding: 20px;
 	text-align: left;
 }
 footer small
 {
-	font-size: 10px;
+	font-size: 9px;
 	color: #606060;
 }
 footer small a
