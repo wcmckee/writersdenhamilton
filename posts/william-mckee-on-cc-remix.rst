@@ -1,33 +1,35 @@
-William Mckee is an artist, 
+William McKee is an artist, 
 web/software/videogame developer, writer, 
 public speaker, photographer, videographer,
-and educater. 
+and educator. 
 
 He volunteers for Creative Commons NZ
-helping to promote Creative Commons in 
-the Hamilton area and through organisions 
-he is involved with - artcontrol, Writers 
-Den Hamilton, Hamilton Computer Club, 
-Hamilton Library. Everything he creates 
-is licenced under a Creative Commons license,
-with preference for the more libral, and 
-open culture licences - CC BY and CC BY-SA.
+helping to promote Creative Commons.
+Everything he creates 
+is licensed under a Creative Commons license,
+with preference for the more liberal, and 
+open culture licenses - CC BY and CC BY-SA.
 
 His art can be found at 
 `<http://artcontrol.me/>`_ and is 
 available under a Creative Commons 
-Attribution (BY) licence. 
+Attribution (BY) license. 
 William is a supporter, user, and developer of 
 open source software and hardware. He is passionate 
-about early childhood education having volunteered for 
+about early childhood education.
+
+In November 2015 William successfully 'won' NaNoWriMo. The 
+novel he wrote one day at a time for the month titled 
+It Will Not Be Mine is a Science Fiction novel which 
+William has licensed under a CC BY license. 
 
 "Creative Commons is useful to an artist to promote 
 the work and it makes the world a better place," says 
-William. "Others may find uses for my art 
-and even make money from it, good on them!"
+William. "Others may find new uses with my content 
+and even make money, good on them!"
 
 During High School William spent the majority
-of his senior years in the Design room. Spenting the majority of his time creating vector
+of his senior years in the Design room. Spending the majority of his time creating vector
 designs. 
 
 William became interested in 
@@ -40,120 +42,120 @@ sketchbook wherever
 he goes, along with a pencil or pen.
 
 William created the site artcontrol.me: 
-The Art Of William Mckee.
+The Art Of William McKee.
 
 The site was created for a home for William 
-to host his artwork.
+to host his artwork and reflect upon it. 
 
 Originally powered by WordPress, he has since
 switched to the Python static website 
 generator - Nikola. This powers his various sites. 
- 
-It was hosted with GoDaddy and ran CentOS. The site was powered by WordPress, 
-switching later to Nikola. 
-He later also switched this to DigitalOcean 
-with the operating system Debian, which is 
-used by the majority of his machines.
 
-Well William was always interested in using 
-a Creative Commons licence, he at first 
+William was always interested in using 
+a Creative Commons license, he at first 
 chose to use a more restrictive 
-Attribution-NonCommercial (BY-NC) licence 
+Attribution-Noncommercial (BY-NC) license 
 for his artworks, though soon chose to use 
-the liberal Attribution (BY) licence. 
+the liberal Attribution (BY) license. 
 William doesn't see many reasons for artists 
-to use NC licences, and finds it especially 
+to use NC licenses, and finds it especially 
 problematic when NC licensing is used by 
 governments.
 
 As William argues, "Tax payers have already 
-paid for the material. It should therefore be licensed under the most liberal licences 
-(perhaps even public domain/creativecommons 
+paid for the material. It should therefore be licensed under the most liberal licenses 
+(perhaps even public domain/creative commons 
 zero). This allows the most freedom for 
 people to do what they like with the content."
 
-I like the idea of aribution. Everyone should be 
-licencing their copyright work under a Create Commons Attribution licence or
+I like the idea of attribution. Everyone should be 
+licensing their copyright work under a Create Commons Attribution license or
 zero.   
 
 William also point out that the 
-"Non-Commercial licences are hard to 
+"Non-Commercial licenses are hard to 
 interpret, as was noted in a German court 
 case in 2014, which strongly limited the 
 interpretation of NC to 'personal use.' 
 Similar problems with the interpretation 
 of NC could exist in other countries. 
 This is why I think everyone should avoid 
-the NC licence. I would actually prefer that 
-the NC licence not exist in the first place."
+the NC license. I would actually prefer that 
+the NC license not exist in the first place."
 
 The good thing, Williams says, is that the 
-majority of New Zealand government works 
+majority of New Zeal and government works 
 released under CC seems to be under CC BY, 
 though he is concerned that some schools 
-seem to have adopted an NC licence.
+seem to have adopted an NC license.
 
 In 2010 he moved to Wellington and attended 
-The Learning Connexion, where he began to 
+The Learning Connection, where he began to 
 focus on life drawing. This was created on 
-brown paper with an easel. Pencil, coloured 
-pencil, oil pastel, acrylic paint, gouche, 
-watercolours were the media that he used.
+brown paper with an easel. Pencil, colored 
+pencil, oil pastel, acrylic paint, gouache, 
+watercolors were the media that he used.
 
 William had done digital painting since 
 attending UCOL with illustration classes.
-He used a Wacon tablet. Currently for his 
-digital painting William uses an Intous 5
+He used a Wac on tablet. Currently for his 
+digital painting William uses an Into us 5
 small tablet connected to a Raspberry Pi 
 computer. The software he uses is GIMP 2.8 
 and it is running the operating system 
-Rasbian (Debian Jessie, Stable). William uses
-a batery pack plugged into the Pi to power it.
+Rabin (Debian Jessie, Stable). William uses
+a battery pack plugged into the Pi to power it.
 
 William uses the Pi to edit text. Plugging 
 in a keyboard and uses terminal with the 
-softwarenano to edit text.  
+software to edit text.  
 
-Digial later focused on portraits
-
-using GIMP, an free and open source 
+Digital later focused on portraits using GIMP, an free and open source 
 raster graphics software. William began by 
 painting on a windows desktop and laptop, 
 later switching to Fedora and Debian. 
 
+He uses a Raspberry Pi 2b with a 480PX by 320PX touch screen and
+Wacom tablet attached.   
+
 Many of his works from 2012-2014 of portrait 
 and figures were drawn from references on 
-RedditGetsDrawn. During this period, 
+RedditGetsDrawn. 
+
 William would draw portraits of people and 
 give them the drawing - taking a photo for 
-his own reference. 
+his own reference. pencil and colored pencil 
+was the media used mostly.  
+
 At the bottom of the page he would sign 
-with wcmckee artcontrol.me and write 'cc by' 
+with McKee artcontrol.me and write 'cc by' 
 on the piece of original artwork. 
 These were mostly completely in pencil 
-and coloured pencil.
+and colored pencil.
 
 William is also passionate about working 
 with children. In 2014 he volunteered at 
-Whaihanga Early Learning Centre, 
+Huang Early Learning Cent re, 
 where he would work collaboratively with 
 kids, often on the same piece of art, 
-using oil pastel, pencil, and coloured 
+using oil pastel, pencil, and colored 
 pencil. 
-He was influenced by the children's artwork 
-- often redrawing elements of their works.
+He was influenced by the children artwork 
+- often redrawing elements of their works. 
+The children works were taken into digital 
+painting. With GIMP artwork is digital traced.
 
 William took the liberty of licensing these 
-works under a CC BY licence - photographing 
+works under a CC BY license - photographing 
 and uploaded the works to artcontrol.me. 
 He would create large chalk murals on the 
 ground outside, with children requested that 
 he draw comic book characters like the Hulk, 
-Spiderman, Bane, and Batman. These mural 
-pieces were created on the fenceline of 
+Spider man, Bane, and Batman. These mural 
+pieces were created on the fence line of 
 Whaihanga and Knighten Normal School. 
 Swarms of school children would crowd the 
-fenceline - watching and discussing the 
+fence line - watching and discussing the 
 artwork with him. They were blown away 
 from how quickly he worked and the 
 quality of his artwork. 
@@ -166,8 +168,7 @@ Creative Commons has at its core."
 William has since become a volunteer for 
 Creative Commons Aotearoa New Zealand, 
 helping to spread the word about 
-Creative Commons licensing in 
-the Hamilton region. 
+Creative Commons licensing. 
 If you want to volunteer, get in touch!
 
 This article has been reused and remixed from 

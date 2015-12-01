@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Writers Den Hamilton (writersdenhamilton)</title><link>http://writersdenhamilton.org.nz</link><description></description><atom:link rel="self" type="application/rss+xml" href="http://writersdenhamilton.org.nz/authors/writersdenhamilton.xml"></atom:link><language>en</language><lastBuildDate>Tue, 01 Dec 2015 06:37:00 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>kiwipycon-travelbac</title><link>http://writersdenhamilton.org.nz/posts/kiwipycon-travelbac.html</link><dc:creator>writersdenhamilton</dc:creator><description>&lt;div&gt;&lt;p&gt;currently sitting at chch airport after spending the
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Writers Den Hamilton (writersdenhamilton)</title><link>http://writersdenhamilton.org.nz</link><description></description><atom:link href="http://writersdenhamilton.org.nz/authors/writersdenhamilton.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Tue, 01 Dec 2015 09:50:10 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>kiwipycon-travelbac</title><link>http://writersdenhamilton.org.nz/posts/kiwipycon-travelbac.html</link><dc:creator>writersdenhamilton</dc:creator><description>&lt;div&gt;&lt;p&gt;currently sitting at chch airport after spending the
 weekend here for kiwiPyCon.
 My experience started when I showed up at Catalyst IT on
 Thursday and volunteered for AV.&lt;/p&gt;
@@ -51,7 +51,29 @@ taking an hour.&lt;/p&gt;
 &lt;p&gt;One of the most inspiring talks for me was a lightning
 talk given by a girl catrin who talked about CodeClub,
 and Ministry Of Education.  I talked to her after the
-lightning talks at afternoon tea.&lt;/p&gt;&lt;/div&gt;</description><category>article</category><category>conference</category><category>python</category><guid>http://writersdenhamilton.org.nz/posts/kiwipycon-travelbac.html</guid><pubDate>Tue, 01 Dec 2015 11:01:58 GMT</pubDate></item><item><title>kiwipycon2015</title><link>http://writersdenhamilton.org.nz/posts/kiwipycon2015.html</link><dc:creator>writersdenhamilton</dc:creator><description>&lt;div&gt;&lt;p&gt;This year is the first year that the conference is 3
+lightning talks at afternoon tea.&lt;/p&gt;&lt;/div&gt;</description><category>article</category><category>conference</category><category>python</category><guid>http://writersdenhamilton.org.nz/posts/kiwipycon-travelbac.html</guid><pubDate>Tue, 01 Dec 2015 11:01:58 GMT</pubDate></item><item><title>kiwipycon2015</title><link>http://writersdenhamilton.org.nz/posts/kiwipycon2015.html</link><dc:creator>writersdenhamilton</dc:creator><description>&lt;div&gt;&lt;p&gt;The first KiwiPyCon I attended was back in 2013. The
+location was the AUT campus in Centeral Auckland
+This year it is in Christchurch. I have been typing
+python code since 2011 so it took me 'several years
+to discover the conference. In 2013 I was living in
+Levin and took the night bus from Levin to Auckland
+on Friday night. I arrived at KiwiPyCon early on
+Saturday morning. I had paid for a student/unwaged
+ticket. I didn't attend the dinner on Saturday
+night. I had my dell laptop with me and can remember
+typing python code with IPython Notebook. I didn't
+attend KiwiPyCon last year in Wellington. Bit silly
+of me really - but I did watch the talks on YouTube.
+This year I applied for finacial assistence and they
+were very generious - my ticket was paid for along
+with $100.00 towards my travel. I am going to be
+staying at a friends of a friends place in chch.
+It's a caravan so unlikely to be anything special.
+I'm not worried though - as long as I have a roof
+over my head and a shower I will be fine. The
+caravan is located at a park where there are showers
+and such.&lt;/p&gt;
+&lt;p&gt;This year is the first year that the conference is 3
 full days. In the past its been just the Saturday
 and Sunday. Though I believe in the past they have
 had tuturials on the friday.&lt;/p&gt;
@@ -147,7 +169,7 @@ but you must be involved early.&lt;/p&gt;
 &lt;p&gt;Cooking sms app. Testing file one two. Three.&lt;/p&gt;
 &lt;p&gt;Topics of interest. Static Blogs. Nikola.
 Debian. Fedora. CentOS, Ubuntu, FreeBSD,
-OpenBSD, TAILS, Red Hat,&lt;/p&gt;&lt;/div&gt;</description><guid>http://writersdenhamilton.org.nz/posts/kiwipycon2015.html</guid><pubDate>Mon, 30 Nov 2015 11:00:00 GMT</pubDate></item><item><title>nanowrimo15-day30</title><link>http://writersdenhamilton.org.nz/posts/nanowrimo15-day30.html</link><dc:creator>writersdenhamilton</dc:creator><description>&lt;p&gt;World.&lt;/p&gt;</description><category>NaNoWriMo</category><category>novel</category><category>science fiction</category><guid>http://writersdenhamilton.org.nz/posts/nanowrimo15-day30.html</guid><pubDate>Sun, 29 Nov 2015 11:01:58 GMT</pubDate></item><item><title>nanowrimo15-day29</title><link>http://writersdenhamilton.org.nz/posts/nanowrimo15-day29.html</link><dc:creator>writersdenhamilton</dc:creator><description>&lt;p&gt;hello.&lt;/p&gt;</description><category>NaNoWriMo</category><category>novel</category><category>science fiction</category><guid>http://writersdenhamilton.org.nz/posts/nanowrimo15-day29.html</guid><pubDate>Sat, 28 Nov 2015 11:01:58 GMT</pubDate></item><item><title>cc-growth</title><link>http://writersdenhamilton.org.nz/posts/cc-growth.html</link><dc:creator>writersdenhamilton</dc:creator><description>&lt;div&gt;&lt;p&gt;Ideas for growing Creative Commons&lt;/p&gt;
+OpenBSD, TAILS, Red Hat,&lt;/p&gt;&lt;/div&gt;</description><category>article</category><category>conference</category><category>python</category><guid>http://writersdenhamilton.org.nz/posts/kiwipycon2015.html</guid><pubDate>Mon, 30 Nov 2015 11:01:58 GMT</pubDate></item><item><title>nanowrimo15-day30</title><link>http://writersdenhamilton.org.nz/posts/nanowrimo15-day30.html</link><dc:creator>writersdenhamilton</dc:creator><description>&lt;p&gt;World.&lt;/p&gt;</description><category>NaNoWriMo</category><category>novel</category><category>science fiction</category><guid>http://writersdenhamilton.org.nz/posts/nanowrimo15-day30.html</guid><pubDate>Sun, 29 Nov 2015 11:01:58 GMT</pubDate></item><item><title>nanowrimo15-day29</title><link>http://writersdenhamilton.org.nz/posts/nanowrimo15-day29.html</link><dc:creator>writersdenhamilton</dc:creator><description>&lt;p&gt;hello.&lt;/p&gt;</description><category>NaNoWriMo</category><category>novel</category><category>science fiction</category><guid>http://writersdenhamilton.org.nz/posts/nanowrimo15-day29.html</guid><pubDate>Sat, 28 Nov 2015 11:01:58 GMT</pubDate></item><item><title>cc-growth</title><link>http://writersdenhamilton.org.nz/posts/cc-growth.html</link><dc:creator>writersdenhamilton</dc:creator><description>&lt;div&gt;&lt;p&gt;Ideas for growing Creative Commons&lt;/p&gt;
 &lt;p&gt;Hold monthly Creative Commons meetups in major cities. Everyone welcome. Hook volunteers.
 Pizza and Drinks. Have a speaker/problem pitch and sprint structure. Open Education Resource Creation.
 Short two hour sprint on creating open education resources. Find sponsers for the meetups if need be.&lt;/p&gt;
