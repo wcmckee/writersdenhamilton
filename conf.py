@@ -127,6 +127,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+	("/bio.html", "Writers Bios"),
         ("/archive.html", "Archives"),
         ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS feed"),
@@ -136,7 +137,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME="bootstrap3"
+THEME="ipython"
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
 THEME_COLOR = '#5670d4'
@@ -171,13 +172,13 @@ POSTS = (
     ("posts/*.txt", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("stories/*.rst", "stories", "story.tmpl"),
-    ("stories/*.txt", "stories", "story.tmpl"),
+    ("stories/*.rst", "", "story.tmpl"),
+
 )
 
 
 # Below this point, everything is optional
-
+INDEX_PATH = "blog"
 # Post's dates are considered in UTC by default, if you want to use
 # another time zone, please set TIMEZONE to match. Check the available
 # list from Wikipedia:
