@@ -24,3 +24,9 @@ William Mckee
 William live in Hamilton where he writes software, websites and the occasional novel. He enjoys writing science fiction and 
 technology, partically open source. William enjoys walking, digital painting and giving technology talks. In 2015 he successfully 
 completed NaNoWriMo after attempting in 2014. 
+
+Ielse Broeksteeg
+================
+
+Ielse Broeksteeg (just say 'Elise') traded the Netherlands for New Zealand when she was 26 and hasn't looked back ever since. 
+Reading and writing are two of her greatest passions along with - inevitably - cats.
