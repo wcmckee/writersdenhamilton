@@ -5,42 +5,66 @@ The robes had belonged to his wife who had been in a accident and passed away. H
 couldn't bring himself to throw out her belongings. 
 
 Antony had never remarried but instead focused on
-his work. After his wife's death he was hired to develop software to get the computer to paint 
-lines. Antony specilised in code for graphics. He had never meet the man whoever hired him. 
-When Antony was done the code was uploaded to a server. He was given 
-a private key to connect to. When the code was uploaded to the server it is moved off the server and original content deleted. 
+his work. After his wife's death he was hired to develop software that automated digital 
+painting. Antony specilised in creating code for graphics. He had never meet the man whoever 
+hired him. When Antony was done the code was uploaded to a secure server. A private key was used 
+to connect. Once the code was uploaded the original content was deleted. 
 
-Antony opened the pantry cabinet. He was hungry but wasn't quite sure what to make. Noodles seemed like a good choice.
+Antony opened the pantry cabinet. He was hungry and the choices were 
+limited. Japanese noodles or potatoes.
 
-Sarah opened the steel door and steeped into the room. Antony was standing in front of the cubard. He seemed to be deciding on something 
-to cook. 
-	"Take a seat", he told Sarah. She moved towards the table. 
-	"Are you hungry?", ?', asked Antony. Sarah nodded. 
-	"Fried noodles it is then", Antony reached for the Japanese style noodles. 'Cut two onion', he spoke. A metal mechanical arm with a knife attached to the end on the bench started to 
-cut up two onions. 'auto fried noodles'. 'fried noodles started', replied the machine. Antony moved towards the table where Sarah was sitting. 
+Sarah had opened the steel door and stepped into the room. Antony stood in front of the 
+cubbard. He looked over to her and smiled.
+	"Take a seat", he gesterd Sarah towards the table. 
+	"Are you hungry?", asked Antony, rampling though the contents in the cubard. Sarah nodded. 
+	"Noodles alright?", Antony asked. Embarsed for the lack of choices. Sarah smiled in aproval.
+
+"Cut two onions, fine", Antony spoke. A mechanical arm with a knife attached began to 
+slice the two onions. Antony had designed the automate cooking kitchen himself.  "Japanese styed noodles". "Japanese styled fried noodles started, completion time: 15 minutes", replied the machine. Antony moved towards the table where Sarah was sitting. 
 'I will let the machine take care of dinner so we can talk', Antony remarked as he took a seat opposite Sarah. 'I will like you to explain 
 all events you can remember from the past twenty four hours', Antony asked Sarah. He took out a pad and pen.
 'Where to begin', Sarah replied.  
 
-Sarah looked back at the Earth from the capsule. She was being sent to the moon on a mission to recover prototype 6b345 ArtControl. System 
-control had lost contact with it during a recent mission. It had been with 5 other prototype ArtControl machines exploring craters of the moon
-before its radio-signal failed. It was suspected that its system had been taken over by a hacker and it was being remotely controlled by someone 
+Sarah looked back at the Earth from the capsule. She was being sent to the moon on a mission to 
+recover Prototype Fluffy. System 
+control had lost contact with it during a recent mission. It had been with 5 other prototype 
+machines exploring craters of the moon
+before its radio-signal failed. It was suspected that its system had been taken over by a hacker 
+and it was being remotely controlled by someone 
 on Earth. This was dangerous as this particle machine was designed with nuclear capabilities. 
-Sarah closes her eyes as she exited the Earth atmosphere. The ship she was traveling over was running the AI ArtControl system headless. This 
-allowed for ArtControl to control the ships functions so that the crew were able to relax. This cut down the risk of mistakes as ArtControl 
+Sarah closes her eyes as she exited the Earth atmosphere. The ship she was traveling over was 
+running the system headless. This 
+allowed for system to control the ships functions so that the crew were able to relax. 
+This cut down the risk of mistakes as Fluffy
 was designed to not make a mistake. 
-Once on the moon Sarah would carry a Raspberry Pi computer hooked to her life support that would assist her on the mission to retrieve prototype 
-6b345. The Pi was running the AI Artcontrol.  
-Sarah stepped out of the pod. The her suit had been modified to allow her to walk on the moon with similar gravity to that of Earth. 
-20 meters in front of her she spotted the moon buggy. This was going to be used to get to the crater where system control last had contact 
-with 6b345. The buggy was equipped with GPS that would be controlled by ArtControl to take her to the crater.
-She started moving towards the buggy. 'Sarah, this is system control', came a voice on her headset. 'confirm, This is Sarah', she replied. 
-'We notice you have arrived and exited the pod, status update' the voice asked. 'Everything is fine, moving toward the transport'. 
-'Roger that, ArtControl will take over once you reach the transport, system control out'. The transmission ended. 
-Sarah continued moving towards the transport. After finally reaching the transport she climbed into the seat. It was a single pod that had 
-been designed to move over the toughest conditions - perfect for the rocky texture of the moon. 
-Sarah reached for the Raspberry Pi from her belt and connected it to the transport.
-The Pi switched on with the power given to it from the transport. The monitor in front of Sarah switched on. Bios loaded, and the kernel 
+Once on the Moon Sarah would activate the system connected to her life support that 
+would assist the retrieval of Fluffy. The system was running the .  
+Sarah stepped out of the pod. Her suit had been modified to allow similar gravity on the Moon as 
+Earth.
+A short distance away was her ground transport. 
+
+This would transport her to the crater where contact with Fluffy was lost.
+
+The ground transport was equipped with GPS. System control would take control and transport her
+to the crater.
+
+Sarah took a long stride towards the transport. She had undergone intensive training for this
+but was still nervious. The sand sprayed up from under her feet as she stomped down. 
+
+"Sarah, this is System Control", came a voice on her headset. 
+
+"Confirm, This is Sarah", she replied. 
+
+"We have readings you have arrived and exited the pod, could we get a status update?", 
+System Control asked. "Everything is fine, moving toward the transport". 
+'Roger that, We will take control of transport once you arrive, SystemControl out". 
+The transmission ended. 
+Sarah continued moving towards the transport. She reached the transport and climbed into the 
+seat. It was a single pod that had 
+been designed to move over the tough conditions. It was perfect for the rocky texture of the 
+Moon. 
+Sarah reached for the device from her belt and connected it to the transport.
+The device switched on with the power given to it from the transport. The monitor in front of Sarah switched on. Bios loaded, and the kernel 
 booted. Once the operating system was loaded the transport began moving forward. Sarah strapped herself in as it began to speed up. 
 
 In a distance the prototype 6b345 ArtControl watched the transport zip across the moons surface. 6b345 stood still, knowing the humans 
