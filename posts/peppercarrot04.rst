@@ -49,8 +49,6 @@ a pale green.
 The problem with time travel is it's easy to get lost and create too many 
 characters. 
 
-
-
 The Demons of Chaosah Hornük, Eyeük and Spidük had morphed into their 
 Wharrgarblah alternative they were much the same - except water and
 wind based. Hornük's green fur had grown in length. For the past week
@@ -132,8 +130,4 @@ under it's right wing.  The crowd burst into applause.
  "Your applause can't be wrong. Coriander has already been eliminated", a smile
  flashed accross Saffrons face. Deeper into the abyss Coriander fell. She had been
  defeated. The voice moved on to the third witch, "That last demostration would now 
- seem difficult to beat for Shichimi"
- 
-
-
-  
+ seem difficult to beat for Shichimi".
