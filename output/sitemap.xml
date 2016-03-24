@@ -15,15 +15,15 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/2015/index.html</loc>
-  <lastmod>2016-03-24T05:55:00Z</lastmod>
+  <lastmod>2016-03-24T22:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/2016/index.html</loc>
-  <lastmod>2016-03-24T05:55:00Z</lastmod>
+  <lastmod>2016-03-24T22:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/archive.html</loc>
-  <lastmod>2016-03-24T04:47:00Z</lastmod>
+  <lastmod>2016-03-24T20:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/authors/index.html</loc>
@@ -63,11 +63,11 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/blog/index-6.html</loc>
-  <lastmod>2016-03-24T04:47:00Z</lastmod>
+  <lastmod>2016-03-24T20:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/blog/index.html</loc>
-  <lastmod>2016-03-24T05:55:00Z</lastmod>
+  <lastmod>2016-03-24T22:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/article.html</loc>
@@ -94,6 +94,14 @@
   <lastmod>2016-02-22T10:28:00Z</lastmod>
  </url>
  <url>
+  <loc>http://writersdenhamilton.org.nz/categories/disney.html</loc>
+  <lastmod>2016-03-24T20:14:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://writersdenhamilton.org.nz/categories/doctorow.html</loc>
+  <lastmod>2016-03-24T20:40:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://writersdenhamilton.org.nz/categories/education.html</loc>
   <lastmod>2016-02-22T10:28:00Z</lastmod>
  </url>
@@ -103,7 +111,7 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/index.html</loc>
-  <lastmod>2016-03-17T13:51:00Z</lastmod>
+  <lastmod>2016-03-24T20:30:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/information.html</loc>
@@ -131,7 +139,7 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/novel.html</loc>
-  <lastmod>2016-03-24T05:55:00Z</lastmod>
+  <lastmod>2016-03-24T22:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/oed2016.html</loc>
@@ -139,7 +147,7 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/peppercarrot.html</loc>
-  <lastmod>2016-03-24T05:55:00Z</lastmod>
+  <lastmod>2016-03-24T22:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/playstation.html</loc>
@@ -163,7 +171,7 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/science-fiction.html</loc>
-  <lastmod>2016-02-22T10:28:00Z</lastmod>
+  <lastmod>2016-03-24T20:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/categories/study.html</loc>
@@ -234,12 +242,20 @@
   <lastmod>2016-02-22T10:28:00Z</lastmod>
  </url>
  <url>
+  <loc>http://writersdenhamilton.org.nz/posts/downout.html</loc>
+  <lastmod>2016-03-24T20:30:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://writersdenhamilton.org.nz/posts/edr-sprint-william.html</loc>
   <lastmod>2016-02-22T10:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/edr-sprint.html</loc>
   <lastmod>2016-02-22T10:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://writersdenhamilton.org.nz/posts/ftw.html</loc>
+  <lastmod>2016-03-24T20:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/hard-decisions.html</loc>
@@ -315,7 +331,7 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/nanowrimo15-day2-edit2.html</loc>
-  <lastmod>2016-03-24T04:47:00Z</lastmod>
+  <lastmod>2016-03-24T20:14:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/nanowrimo15-day2.html</loc>
@@ -423,7 +439,7 @@
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/peppercarrot07.html</loc>
-  <lastmod>2016-03-24T05:55:00Z</lastmod>
+  <lastmod>2016-03-24T22:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/prenano.html</loc>
@@ -440,6 +456,10 @@
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/sherlock.html</loc>
   <lastmod>2016-02-22T10:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://writersdenhamilton.org.nz/posts/someone.html</loc>
+  <lastmod>2016-03-24T20:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://writersdenhamilton.org.nz/posts/spikeinfosec.html</loc>
