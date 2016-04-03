@@ -22,6 +22,10 @@
   <lastmod>2016-02-22T10:28:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://writersdenhamilton.org.nz/categories/campnanowrimo.xml</loc>
+  <lastmod>2016-04-03T09:57:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://writersdenhamilton.org.nz/categories/computer.xml</loc>
   <lastmod>2016-02-22T10:28:00Z</lastmod>
  </sitemap>
@@ -87,7 +91,7 @@
  </sitemap>
  <sitemap>
   <loc>http://writersdenhamilton.org.nz/categories/novel.xml</loc>
-  <lastmod>2016-04-02T07:55:00Z</lastmod>
+  <lastmod>2016-04-03T09:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://writersdenhamilton.org.nz/categories/oed2016.xml</loc>
@@ -95,7 +99,7 @@
  </sitemap>
  <sitemap>
   <loc>http://writersdenhamilton.org.nz/categories/peppercarrot.xml</loc>
-  <lastmod>2016-04-02T07:55:00Z</lastmod>
+  <lastmod>2016-04-03T09:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://writersdenhamilton.org.nz/categories/playstation.xml</loc>
@@ -151,10 +155,10 @@
  </sitemap>
  <sitemap>
   <loc>http://writersdenhamilton.org.nz/rss.xml</loc>
-  <lastmod>2016-04-02T07:55:00Z</lastmod>
+  <lastmod>2016-04-03T09:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://writersdenhamilton.org.nz/sitemap.xml</loc>
-  <lastmod>2016-04-02T07:55:00Z</lastmod>
+  <lastmod>2016-04-03T09:57:00Z</lastmod>
  </sitemap>
 </sitemapindex>
