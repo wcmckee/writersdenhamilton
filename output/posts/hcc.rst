@@ -99,3 +99,4 @@ attend an evening speaker based meeting.
 The following Saturday a day workshop is held. Members and 
 guests collaborate together, troubleshooting solving computer issues
 and offering advice. 
+
