@@ -6,7 +6,9 @@
 .. link: 
 .. description: 
 .. type: text
+.. hidetitle: True
 
-.. image:: assets/img/header.svg
+Welcome to WritersDenHamilton. A group of Hamilton, New Zealand based writers that meet to discuss writing.
 
-Welcome to WritersDenHamilton. A group of Hamilton, New Zealand based writers that meet to discuss writing. 
+Meetings take place fortnightly at the Central Place Library (floor two) from 5:30pm till 7:30pm on floor two. The group also meets at Chartwell 
+library on the alternative week - Thursday from 5:30 till 7:30pm.   

@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. hidetitle: True
 
 Biographies of those involved with Writers Den Hamilton:
 
