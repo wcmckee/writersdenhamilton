@@ -1,4 +1,0 @@
-Sitemap: http://writersdenhamilton.org.nz/sitemapindex.xml
-
-User-Agent: *
-Host: writersdenhamilton.org.nz
