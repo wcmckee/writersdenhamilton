@@ -7,7 +7,13 @@ This is a novel that follows the lives of several generations of house elf. Thou
 
 Research into the families. Family tree of multiply families. Five generations.
 
-A magical creature. Immensely devoted and loyal to their master. Serve witches and wizard. Usually employed by old wizarding families. Residence in elaborate establishments, like mansions. 
+A magical creature. Immensely devoted and loyal to their master. Serve witches and wizard. Usually employed by old wizarding families. Residence in elaborate establishments, like mansions.
+
+There were those that fought for the rights of house elves. Unpopular amongst house elves for encouraging the elves to free themselves.  
+
+The following events occur in real time. Viewer dicuression is advised. 
+
+The Family Hoe had stood vacant for several years. House Elves still ocubied the home and had kept it clean awaiting any family returning. 
 
 Unless they are freed they must follow orders from their masters. 
 
@@ -24,3 +30,5 @@ Children
 The FOSS House Elf. A childrens adventure/fantasy novel by William McKee. 
 
 Simple illustrations will be included.
+
+
