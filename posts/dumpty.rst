@@ -1,4 +1,4 @@
-﻿Mr Dumpty - http://artctrl.me/write/posts/mrdumpty.html
+﻿Dumpty - http://artctrl.me/write/posts/dumpty.html
 
 Contents © 2016 William Mckee - licensed under a Creative Commons Attribution 4.0 International Licence.
 
